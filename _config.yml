@@ -1,5 +1,0 @@
-title: Media Unmasked
-permalink: /:categories/:title/
-url: "http://mediaunmasked.github.io/mediaunmasked"
-gems:
-- jekyll-redirect-from

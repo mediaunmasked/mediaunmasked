@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>Speed Up YouTube In 60 Seconds & Avoid ISP Throttling</title>
+	<link rel="canonical" href="http://mediaunmasked.github.io/mediaunmasked/tutorials/internet/speed-up-youtube/">
+	<link rel="shortcut icon" type="image/png" href="http://i.imgur.com/eHdhudX.png"/>
+	<link rel="stylesheet" href="http://mediaunmasked.github.io/mediaunmasked/assets/css/style.css">
+</head>
+
+	<body>
+
+		<header>
+	<nav class="navbar-inverse navbar-default" role="navigation">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="http://mediaunmasked.github.io/mediaunmasked">Media Unmasked</a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+				<li><a href="http://mediaunmasked.github.io/mediaunmasked/tutorials">Tutorials</a></li>
+				<li><a href="http://mediaunmasked.github.io/mediaunmasked/reviews">Reviews</a></li>
+				<li><a href="http://mediaunmasked.github.io/mediaunmasked/freebies">Freebies</a></li>
+				<li><a href="http://mediaunmasked.github.io/mediaunmasked/gear">Gear</a></li>
+				<li><a href="http://mediaunmasked.github.io/mediaunmasked/contact">Contact</a></li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+	<div style="background: no-repeat center 50% url(http://i.imgur.com/pumlKm3.jpg); background-size: cover; height: 350px;">
+		<div class="headline">Speed Up YouTube, Aviod ISP Throttling</div>
+	</div>
+</header>
+
+<article class="container">
+	
+		<span class="pull-right date">May 5, 2014</span>
+	
+<!-- 	<div class="img-thumbnail">
+		<div style="background: no-repeat center center url(http://i.imgur.com/pumlKm3.jpg); background-size: cover; height: 100%;"></div>
+	</div>
+	<div class="hidden-xs">Large adsense here</div>
+	<div class="visible-xs-* hidden-sm">Small adsense here</div> -->
+		
+			<h1 id="speed-up-youtube-in-60-seconds--avoid-isp-throttling">Speed Up YouTube In 60 Seconds &amp; Avoid ISP Throttling</h1>
+<hr />
+
+<h2 id="isp-throttling">ISP Throttling</h2>
+<p>Time Warner Cable (TWC) and a few other internet providers can do a sneaky thing (probably stated in their terms of service somewhere) where they throttle your internet download speed when streaming (and uploading) a youtube (or similar stream based sites such as Netflix, Hulu, Twitch, etc.) video. I have the basic Time Warner Cable package that includes phone, cable and internet. Using <a href="http://speedtest.net/">speedtest.net</a>, I normally had anywhere from 1-10 mb/s download, and always under 1mb/s upload. This is because Time Warner Cable was throttling the internet. They put a limit on the download, or stream, speed that you can download from sites like <a href="http://youtube.com/mediaunmasked">YouTube</a>, <a href="http://twitch.tv/">Twitch</a>, <a href="http://gan.doubleclick.net/gan_click?lid=41000000035479067&amp;pubid=21000000000604432&amp;lsrc=17">Netflix</a> and <a href="http://hulu.com/">Hulu</a>. Each time you open a video, your computer connects to a server, one that TWC has inherently throttled. Luckily, there is an easy fix to this problem. You’ll need to block the primary connection that is requested. It will then request the default, faster, server (which will speed up the download speed tremendously).</p>
+
+<p>There is an short, easy method of adding this IP block using the command prompt and a longer, more user interface friendly version. They both do the same thing – hope you can follow one of them.</p>
+
+<h2 id="short-version-windows-7">Short version (Windows 7):</h2>
+
+<ul>
+  <li>Start -&gt; type ‘cmd’</li>
+</ul>
+
+<p><img src="http://i.imgur.com/iSDNPAV.png" alt="" /></p>
+
+<ul>
+  <li>Type in the following:</li>
+</ul>
+
+<pre>netsh advfirewall firewall add rule name="TWC SUCKS" dir=in action=block remoteip=173.194.55.0/24,206.111.0.0/16 enable=yes</pre>
+
+<p>Hit enter (You should get a confirmative ‘Ok.’)</p>
+
+<p><img src="http://i.imgur.com/3rvH6Xt.png" alt="" /></p>
+
+<p><em>Vuala</em>, no more slow streaming for you. <a href="http://clicktotweet.com/F4cKH">Consider tweeting this</a> tutorial (click the link to tweet).</p>
+
+<h2 id="to-undo-this-action-for-whatever-reason">To Undo This Action (for whatever reason):</h2>
+<p>Add the following line to your command prompt:</p>
+
+<pre>netsh advfirewall firewall delete rule name="TWC SUCKS"</pre>
+
+<h2 id="long-version-windows-7">Long version (Windows 7):</h2>
+
+<ul>
+  <li>Start -&gt; type ‘firewall’</li>
+</ul>
+
+<p><img src="http://i.imgur.com/Zo8HQFo.png" alt="" /></p>
+
+<ul>
+  <li>Click InBound Rules (top left)</li>
+</ul>
+
+<p><img src="http://i.imgur.com/L2JDXcG.png" alt="" /></p>
+
+<ul>
+  <li>Click New Rule</li>
+</ul>
+
+<p><img src="http://i.imgur.com/rbxj94X.png" alt="" /></p>
+
+<ul>
+  <li>Check Custom -&gt; Next</li>
+</ul>
+
+<p><img src="http://i.imgur.com/srk7Z0W.png" alt="" /></p>
+
+<ul>
+  <li>Check All programs -&gt; Next</li>
+</ul>
+
+<p><img src="http://i.imgur.com/cPePvWF.png" alt="" /></p>
+
+<ul>
+  <li>Leave the default settings -&gt; Next</li>
+</ul>
+
+<p><img src="http://i.imgur.com/8bdpjm8.png" alt="" /></p>
+
+<ul>
+  <li>Under <strong>REMOTE</strong> IP addresses, check These IP addresses -&gt; Add…</li>
+</ul>
+
+<pre>173.194.55.0/24 206.111.0.0/16</pre>
+
+<p><img src="http://i.imgur.com/Vx6CKd1.png" alt="" /></p>
+
+<ul>
+  <li>Next</li>
+  <li>Block the connextions -&gt; Next</li>
+</ul>
+
+<p><img src="http://i.imgur.com/fnPrPr4.png" alt="" /></p>
+
+<ul>
+  <li>Keep Domain, Private and Public all checked -&gt; Next</li>
+</ul>
+
+<p><img src="http://i.imgur.com/4fMNM2i.png" alt="" /></p>
+
+<ul>
+  <li>Give it a proper name and description -&gt; Finish</li>
+</ul>
+
+<p><img src="http://i.imgur.com/z3OqYyA.png" alt="" /></p>
+
+<p><a href="http://clicktotweet.com/F4cKH">Consider tweeting</a> this tutorial (click the link to tweet it).</p>
+
+
+		
+	<br>
+	<h3 class="text-center">Get emailed when I make another tutorial or review</h3>
+	<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//mediaunmasked.us8.list-manage.com/subscribe/post?u=c16fd8c269066ee10b5b0a14d&amp;id=33e2ff4270" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" role="form" target="_blank" novalidate style="margin: 0 auto; max-width: 300px; height: 40px;">
+<div class="mc-field-group form-group">
+	<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Email" style="max-width: 200px;">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_c16fd8c269066ee10b5b0a14d_33e2ff4270" tabindex="-1" value=""></div>
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="position: relative; bottom: 50px; left: 200px;">
+</form>
+</div>
+<!--End mc_embed_signup-->
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+		var disqus_shortname = 'mediaunmasked'; // required: replace example with your forum shortname
+
+		/* * * DON'T EDIT BELOW THIS LINE * * */
+		(function() {
+			var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+			dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		})();
+	</script>
+	<noscript>Please enable JavaScript to view the comments</noscript>
+
+</article>
+
+<footer><a href="http://mediaunmasked.github.io/mediaunmasked" class="pull-left">&copy; 2014 Media Unmasked</a> <div class="pull-right"><a href="http://mediaunmasked.github.io/mediaunmasked/tutorials">Tutorials</a> | <a href="http://mediaunmasked.github.io/mediaunmasked/freebies">Freebies</a> | <a href="http://mediaunmasked.github.io/mediaunmasked/gear">Gear</a> | <a href="http://mediaunmasked.github.io/mediaunmasked/contact">Contact</a></div></footer>
+
+<!-- Hack for navbar highlight -->
+<div id="activenav" hidden="hidden">tutorials</div>
+<div id="subnav" hidden="hidden">internet</div>
+
+<script src="//code.jquery.com/jquery-latest.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="http://mediaunmasked.github.io/mediaunmasked/assets/js/jQuery.tubeplayer.min.js"></script>
+<script src="http://mediaunmasked.github.io/mediaunmasked/assets/js/main.js"></script>
+
+	</body>
+</html>
