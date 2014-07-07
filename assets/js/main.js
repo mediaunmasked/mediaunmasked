@@ -2,7 +2,7 @@ $(function(){
 	// Change active nav color
 	var activenav = $('#activenav').text();
 	$('.active').removeClass('active');
-	$('ul.nav a[href="http://localhost:4000/'+activenav+'"]').parent().addClass('active');
+	$('ul.nav a[href="http://mediaunmasked.com/'+activenav+'"]').parent().addClass('active');
 
 	// Add subnav colors
 	var subnav = $('#subnav').text();
