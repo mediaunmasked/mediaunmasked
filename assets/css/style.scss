@@ -1,0 +1,373 @@
+---
+---
+@import "bootstrap";
+@import "mixins";
+@import url(http://fonts.googleapis.com/css?family=Lato:400);
+
+/****************************
+// Color variables
+****************************/
+$highlight: rgba(255,255,255,1);
+$lowlight: rgba(0,0,0,0.8);
+$dimlight: rgba(0,0,0,0.03);
+$fontLight: white;
+$fontDarkish: #555;
+$fontDark: black;
+$fontRed: #EB4444;
+$fontGreen: #139231;
+$fontBlue: #344DD3;
+
+/****************************
+// Tags
+****************************/
+::selection {
+	background: $lowlight;
+	color: $fontLight;
+	text-shadow: none;
+}
+
+* {
+	transition: 0.35s;
+}
+
+article {
+	font-size: 1.4em;
+}
+
+article a {
+	color: $fontBlue;
+	border-bottom: dashed thin $fontBlue;
+}
+
+article a:hover {
+	color: $fontGreen;
+	border-bottom: dashed thin $fontGreen;
+	text-decoration: none;
+}
+
+// Add image for external sites
+a[href^="http://"].amazon::after, 
+a[href^="https://"].amazon::after {
+	background: url("http://i.imgur.com/dhFyrq4.png") center right no-repeat;
+	content: "";
+	margin: -8px;
+	padding: 8px;
+	position: relative;
+	bottom: 10px;
+	left: 3px;
+}
+
+article a[href^="http://"]::after, 
+article a[href^="https://"]::after {
+	background: url("http://i.imgur.com/C5E4Lem.png") center right no-repeat;
+	content: "";
+	margin: -8px;
+	padding: 8px;
+	position: relative;
+	bottom: 10px;
+	left: 3px;
+}
+
+article a[href^="http://localhost"]::after, article p a[href^="http://mediaunmasked.com"]::after {
+	background: none;
+	margin: 0;
+	padding: 0;
+	position: initial;
+}
+
+article a[href^="http://"] img::after, article a[href^="https://"] img::after {
+	background: none;
+	margin: 0;
+	padding: 0;
+	position: initial;
+}
+
+blockquote {
+	font-size: 1.1em;
+	// color: $fontDarkish;
+	// text-shadow: 1px 1px 3px #ccc;
+	// background: $dimlight;
+	footer {
+		text-align: right;
+		a {
+			color: $fontDarkish;
+			border-bottom: none;
+		}
+		a:hover {
+			color: $fontDark;
+			border-bottom: none;
+		}
+	}
+}
+
+footer {
+	position: relative;
+	bottom: 10px;
+	margin: 0px auto 0px auto;
+	text-align: center;
+	width: 80%;
+	a {
+		color: $fontDark;
+	}
+	a:hover {
+		color: $fontDarkish;
+		text-decoration: none;
+	}
+}
+
+html, body {
+	cursor: default;
+	font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	a {
+		color: $fontDark;
+		border-bottom: solid thin black;
+	}
+	a:hover {
+		color: $fontDark;
+		border-bottom: solid thin black;
+	}
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	margin: 10px;
+}
+
+pre {
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+table {
+	margin: 0 auto;
+}
+
+/****************************
+// Classes
+****************************/
+.book {
+	font-style: italic;
+}
+.container {
+	@include shadow;
+	background: white;
+	position: relative;
+	top: -45px;
+}
+
+.date {
+	margin: 20px 8px 0px 0px;
+}
+
+.fsad-left {
+	@media (min-width: 762px){
+		margin-left: 10%;
+	}
+}
+
+.fsad-right {
+	@media (min-width: 762px){
+		margin-right: 10%;
+	}
+}
+
+.headline {
+	@include center-h;
+	@include center-v;
+	background: $lowlight;
+	color: $fontLight;
+	font-size: 4em;
+}
+
+.img-thumbnail {
+	float: left;
+	width: 280px;
+	height: 220px;
+	margin-right: 10px;
+}
+
+.imglink::after {
+	background: none !important;
+	height: auto;
+	max-width: 10px;
+}
+
+.imgnav {
+	height: 20px;
+	margin: 0px 0px 0px 4px;
+	display: initial;
+	position: absolute;
+	top: 6px;
+}
+
+/******************************
+// Menu subnavigation colorization
+******************************/
+
+.menucoding {
+	background: #e4c900;
+	background: -moz-linear-gradient(-45deg,  #e4c900 0%, #f2dc3c 100%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#e4c900), color-stop(100%,#f2dc3c));
+	background: -webkit-linear-gradient(-45deg,  #e4c900 0%,#f2dc3c 100%);
+	background: -o-linear-gradient(-45deg,  #e4c900 0%,#f2dc3c 100%);
+	background: -ms-linear-gradient(-45deg,  #e4c900 0%,#f2dc3c 100%);
+	background: linear-gradient(135deg,  #e4c900 0%,#f2dc3c 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4c900', endColorstr='#f2dc3c',GradientType=1 );
+}
+
+.menuinternet {
+	background: #0266c8;
+	background: -moz-linear-gradient(-45deg,  #0266c8 1%, #f90101 25%, #f2b50f 50%, #0266c8 75%, #00933b 100%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(1%,#0266c8), color-stop(25%,#f90101), color-stop(50%,#f2b50f), color-stop(75%,#0266c8), color-stop(100%,#00933b));
+	background: -webkit-linear-gradient(-45deg,  #0266c8 1%,#f90101 25%,#f2b50f 50%,#0266c8 75%,#00933b 100%);
+	background: -o-linear-gradient(-45deg,  #0266c8 1%,#f90101 25%,#f2b50f 50%,#0266c8 75%,#00933b 100%);
+	background: -ms-linear-gradient(-45deg,  #0266c8 1%,#f90101 25%,#f2b50f 50%,#0266c8 75%,#00933b 100%);
+	background: linear-gradient(135deg,  #0266c8 1%,#f90101 25%,#f2b50f 50%,#0266c8 75%,#00933b 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0266c8', endColorstr='#00933b',GradientType=1 );
+}
+
+.menumisc {
+	background: #606c88;
+	background: -moz-linear-gradient(-45deg,  #606c88 0%, #3f4c6b 100%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#606c88), color-stop(100%,#3f4c6b));
+	background: -webkit-linear-gradient(-45deg,  #606c88 0%,#3f4c6b 100%);
+	background: -o-linear-gradient(-45deg,  #606c88 0%,#3f4c6b 100%);
+	background: -ms-linear-gradient(-45deg,  #606c88 0%,#3f4c6b 100%);
+	background: linear-gradient(135deg,  #606c88 0%,#3f4c6b 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#606c88', endColorstr='#3f4c6b',GradientType=1 );
+}
+
+.menuphotography {
+	background: #155606;
+	background: -moz-linear-gradient(-45deg,  #155606 0%, #0a8736 100%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#155606), color-stop(100%,#0a8736));
+	background: -webkit-linear-gradient(-45deg,  #155606 0%,#0a8736 100%);
+	background: -o-linear-gradient(-45deg,  #155606 0%,#0a8736 100%);
+	background: -ms-linear-gradient(-45deg,  #155606 0%,#0a8736 100%);
+	background: linear-gradient(135deg,  #155606 0%,#0a8736 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#155606', endColorstr='#0a8736',GradientType=1 );
+}
+
+.menuphotoshop {
+	background: #3b679e; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #3b679e 0%, #2b88d9 98%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#3b679e), color-stop(98%,#2b88d9)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(-45deg, #3b679e 0%,#2b88d9 98%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(-45deg, #3b679e 0%,#2b88d9 98%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(-45deg, #3b679e 0%,#2b88d9 98%); /* IE10+ */
+	background: linear-gradient(135deg, #3b679e 0%,#2b88d9 98%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b679e', endColorstr='#2b88d9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	content: "";
+}
+
+.navbar-inverse {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.overlaycontainer {
+	background: rgba(0,0,0,0.6);
+	padding: 20px;
+}
+
+.overlayimg {
+	height: 200px;
+	width: 100%;
+}
+
+.overlaytxt {
+	a {
+		color: white;
+		border-bottom: solid thin white;
+	}
+	a:hover {
+		color: white;
+		border-bottom: solid thin white;
+	}
+}
+
+.postlist {
+	list-style-type: none;
+	padding: 0;
+	margin-top: 3%;
+	li {
+		margin-bottom: 2.5%;
+	}
+}
+
+.thumbnail {
+	margin: 0px 1% 0px 1%;
+	width: 100%;
+}
+
+.thumb {
+	height: auto;
+	max-width: 250px;
+}
+
+.thumb-h-med {
+	height: 300px;
+	width: auto;
+}
+
+.thumb-small {
+	height: auto;
+	max-width: 100px;
+}
+
+.thumb-smed {
+	height: auto;
+	max-width: 350px;
+}
+
+.thumb-med {
+	height: auto;
+	max-width: 500px;
+}
+
+.thumb-large {
+	height: auto;
+	max-width: 800px;
+}
+
+.ui-resizable {
+	width: 100% !important;
+}
+
+.ui-resizable-s {
+	min-height: 26px !important;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/****************************
+// IDs
+****************************/
