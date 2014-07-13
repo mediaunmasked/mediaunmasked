@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+
+Sitemap: http://mediaunmasked.com/sitemap.xml
+Sitemap: http://mediaunmasked.com/sitemap-video.xml
+
+# Allow crawling of all content
+User-agent: *
+Disallow:

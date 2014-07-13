@@ -3,27 +3,70 @@
   <channel>
     <title>Media Unmasked</title>
     <description></description>
-    <link>http://mediaunmasked.github.io/mediaunmasked/</link>
-    <atom:link href="http://mediaunmasked.github.io/mediaunmasked/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://mediaunmasked.com/</link>
+    <atom:link href="http://mediaunmasked.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>How to Cartoon Yourself in Photoshop</title>
         <description>&lt;h1 id=&quot;how-to-cartoon-yourself-in-photoshop&quot;&gt;How to Cartoon Yourself in Photoshop&lt;/h1&gt;
 &lt;hr /&gt;
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;K43-_zhQZiM&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i1.wp.com/mediaunmasked.com/wp-content/uploads/2013/09/Lincoln-bw.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -71,32 +114,70 @@
 
 &lt;p&gt;&lt;img src=&quot;http://i0.wp.com/i.imgur.com/8RLzQ04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 Sep 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/photoshop/how-to-cartoon-yourself-in-photoshop/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/photoshop/how-to-cartoon-yourself-in-photoshop/</guid>
+        <pubDate>Sat, 20 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://mediaunmasked.com/tutorials/photoshop/how-to-cartoon-yourself-in-photoshop/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/photoshop/how-to-cartoon-yourself-in-photoshop/</guid>
       </item>
     
       <item>
         <title>User Experience - Feedback, Recovery, Simplicity, Goal Oriented</title>
         <description>&lt;h1 id=&quot;user-experience---feedback-recovery-simplicity-goal-oriented&quot;&gt;User Experience - Feedback, Recovery, Simplicity, Goal Oriented&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;div class=&quot;bg-warning&quot;&gt;This post is a continuation to part 1 on user experience. You can check out that post first by clicking &lt;a href=&quot;http://mediaunmasked.github.io/mediaunmasked/tutorials/misc/user-experience-part-1&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;div class=&quot;bg-warning&quot;&gt;This post is a continuation to part 1 on user experience. You can check out that post first by clicking &lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-1&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
 
-&lt;div class=&quot;fsad-left col-md-6 col-sm-12&quot;&gt;
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- YouTube player test --&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div class=&quot;video-container&quot;&gt;
 		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/yIedljapuz0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fsad-right hidden-xs&quot;&gt;
-	&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-	&lt;!-- 336 x 280 --&gt;
-	&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:336px;height:280px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
-	&lt;script&gt;
-	(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		else {
+			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
 	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;br /&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
-&lt;!-- Smaller area --&gt;
-&lt;div class=&quot;visible-xs-* hidden-sm&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;usability-standards&quot;&gt;Usability Standards&lt;/h2&gt;
@@ -129,7 +210,7 @@
 		&lt;td&gt;8. Goal Oriented&lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;The last 4 usability standards for a good user experience are just as important as the &lt;a href=&quot;http://mediaunmasked.github.io/mediaunmasked/tutorials/misc/user-experience-part-1&quot;&gt;first four&lt;/a&gt;, if not, &lt;em&gt;more&lt;/em&gt; important.&lt;/p&gt;
+&lt;p&gt;The last 4 usability standards for a good user experience are just as important as the &lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-1&quot;&gt;first four&lt;/a&gt;, if not, &lt;em&gt;more&lt;/em&gt; important.&lt;/p&gt;
 
 &lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -208,29 +289,67 @@
 If this article helped, consider sharing it to let other designers and developers make the world a more user-friendly place! Thanks!&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jun 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/misctut/user-experience-part-2/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/misctut/user-experience-part-2/</guid>
+        <link>http://mediaunmasked.com/tutorials/misctut/user-experience-part-2/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/misctut/user-experience-part-2/</guid>
       </item>
     
       <item>
         <title>User Experience - Consistency, Familiarity, Recognition, Prevent Error</title>
         <description>&lt;h1 id=&quot;user-experience---consistency-familiarity-recognition-prevent-error&quot;&gt;User Experience - Consistency, Familiarity, Recognition, Prevent Error&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;div class=&quot;fsad-left col-md-6 col-sm-12&quot;&gt;
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- YouTube player test --&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div class=&quot;video-container&quot;&gt;
 		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/xYiiD-p2q80&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;fsad-right hidden-xs&quot;&gt;
-	&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-	&lt;!-- 336 x 280 --&gt;
-	&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:336px;height:280px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
-	&lt;script&gt;
-	(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		else {
+			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
 	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;br /&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
-&lt;!-- Smaller area --&gt;
-&lt;div class=&quot;visible-xs-* hidden-sm&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
 &lt;p&gt;Design should be something that encourages a better experience for those involved. It’s the combination of the visual and technical in a harmonious relationship. The name of this process is user experience, which means “the overall experience of a person using a product such as a website,” or anything else, really. Because many hours are spent every day by people around the world on the internet, I think it’s important to talk about what constitutes a good user experience and why it’s so important to think about.&lt;/p&gt;
@@ -425,31 +544,74 @@ A few great examples of this can be found when you’re asked to save when you c
 
 &lt;p&gt;This post described the importance of consistency, familiarity, recognition, and error prevention have on a user’s experience; Be it on the web, software, or product, user experience is crucial to the health and growth of the community around the product. There are many different subcategories in the spectrum of user experience that are also important to pay attention to, but the four listed above are especially important. There are still four more usability standards that should be addressed (per the compiled table above). To read the rest, click the link below!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://mediaunmasked.github.io/mediaunmasked/tutorials/misc/user-experience-part-2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LhAcM8d.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LhAcM8d.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jun 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/misctut/user-experience-part-1/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/misctut/user-experience-part-1/</guid>
+        <link>http://mediaunmasked.com/tutorials/misctut/user-experience-part-1/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/misctut/user-experience-part-1/</guid>
       </item>
     
       <item>
         <title>Understanding Aperture, Shutter, &amp; ISO Technically</title>
         <description>&lt;h1 id=&quot;understanding-aperture-shutter--iso-technically&quot;&gt;Understanding Aperture, Shutter, &amp;amp; ISO Technically&lt;/h1&gt;
 &lt;hr /&gt;
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;cg8ayJkXeRk&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/uUSsclo.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -477,8 +639,8 @@ To avoid (handheld) blur, make your shutter speed around the same number as the 
 &lt;p&gt;Technicolor Cinestyle – &lt;a href=&quot;http://www.technicolor.com/en/solutions-services/cinestyle&quot;&gt;http://www.technicolor.com/en/solutions-services/cinestyle&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/photography/understanding-your-dslr-technically/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/photography/understanding-your-dslr-technically/</guid>
+        <link>http://mediaunmasked.com/tutorials/photography/understanding-your-dslr-technically/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/photography/understanding-your-dslr-technically/</guid>
       </item>
     
       <item>
@@ -486,20 +648,63 @@ To avoid (handheld) blur, make your shutter speed around the same number as the 
         <description>&lt;h1 id=&quot;faster-web-developing-workflow-with-gulpjs&quot;&gt;Faster Web Developing Workflow With GulpJS&lt;/h1&gt;
 &lt;hr /&gt;
 
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;4cxsXXfJetM&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i0.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/gulpjs.jpg?zoom=1.5&amp;resize=1920%2C1080) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -568,8 +773,8 @@ gulp.run(&#39;styles&#39;, &#39;scripts&#39;, &#39;watch&#39;);
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 27 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/gulpjs/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/gulpjs/</guid>
+        <link>http://mediaunmasked.com/tutorials/coding/gulpjs/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/gulpjs/</guid>
       </item>
     
       <item>
@@ -623,8 +828,8 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 &lt;p&gt;Gabe, from Penny Arcade, was sent a Surface Pro 3 to &lt;a href=&quot;http://www.penny-arcade.com/news/post/2014/05/23/surface-pro-3&quot;&gt;review from an artists’ perspective&lt;/a&gt;. He seemed to appreciate the larger screen, the aspect ratio, and the pixel density and, overall, thought that it was very good for illustration. However, until he tries out the i7, he didn’t want to tell artists to run out and get it; but this is just one guy’s opinion, so don’t take it as gospel! Choose whichever one, if any, fits your budget and needs!&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/reviews/computer/surface-pro-3-specs-i5-vs-i7-wacom-vs-n-trig-free-keyboard/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/reviews/computer/surface-pro-3-specs-i5-vs-i7-wacom-vs-n-trig-free-keyboard/</guid>
+        <link>http://mediaunmasked.com/reviews/computer/surface-pro-3-specs-i5-vs-i7-wacom-vs-n-trig-free-keyboard/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/reviews/computer/surface-pro-3-specs-i5-vs-i7-wacom-vs-n-trig-free-keyboard/</guid>
       </item>
     
       <item>
@@ -632,20 +837,63 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
         <description>&lt;h1 id=&quot;free-webhosting-with-github-pages&quot;&gt;Free Webhosting With GitHub Pages&lt;/h1&gt;
 &lt;hr /&gt;
 
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;B8rYAcfywTQ&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i1.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/maxresdefault.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -671,8 +919,8 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 22 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-github-pages/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-github-pages/</guid>
+        <link>http://mediaunmasked.com/tutorials/coding/learn-github-pages/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-github-pages/</guid>
       </item>
     
       <item>
@@ -680,20 +928,63 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
         <description>&lt;h1 id=&quot;introduction-to-jekyll--static-site-generator&quot;&gt;Introduction To Jekyll – Static Site Generator&lt;/h1&gt;
 &lt;hr /&gt;
 
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;wkDc6KPvLhw&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i0.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/5.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -734,8 +1025,8 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 14 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-jekyll/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-jekyll/</guid>
+        <link>http://mediaunmasked.com/tutorials/coding/learn-jekyll/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-jekyll/</guid>
       </item>
     
       <item>
@@ -743,20 +1034,63 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
         <description>&lt;h1 id=&quot;how-to-learn-javascript--jquery-tags&quot;&gt;How To Learn JavaScript &amp;amp; JQuery Tags&lt;/h1&gt;
 &lt;hr /&gt;
 
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;UQC9HHDA4RI&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i2.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/4.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -772,8 +1106,8 @@ JQuery 101 – &lt;a href=&quot;http://learn.jquery.com/javascript-101&quot;&gt;
 JQuery function parameters – &lt;a href=&quot;http://learn.jquery.com/javascript-101/functions&quot;&gt;http://learn.jquery.com/javascript-101/functions&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-javascript-tags/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-javascript-tags/</guid>
+        <link>http://mediaunmasked.com/tutorials/coding/learn-javascript-tags/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-javascript-tags/</guid>
       </item>
     
       <item>
@@ -781,20 +1115,63 @@ JQuery function parameters – &lt;a href=&quot;http://learn.jquery.com/javascri
         <description>&lt;h1 id=&quot;how-to-learn-css-tags&quot;&gt;How To Learn CSS Tags&lt;/h1&gt;
 &lt;hr /&gt;
 
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
 &lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-6 col-sm-12&quot;&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot; style=&quot;width:100%; height:250px; overflow-y: scroll; overflow-x: hidden;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;gradient&quot; style=&quot;width:100%; height:16px; text-align:center; background: linear-gradient(to bottom, rgba(255,255,255,0.4), #fff); position: relative; top: -20px;&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot; style=&quot;height:0px; width: 100%; position: relative;&quot;&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;t1JmlTpJIfQ&lt;/div&gt;
 		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
 		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
 		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i0.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/3.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;img width=&quot;120px&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot;&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
@@ -809,8 +1186,8 @@ Use em for font-size: &lt;a href=&quot;http://css-tricks.com/why-ems&quot;&gt;ht
 Cheap web hosting: &lt;em&gt;http://mediaunmasked.com/fatcow&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-css-tags/</link>
-        <guid isPermaLink="true">http://mediaunmasked.github.io/mediaunmasked/tutorials/coding/learn-css-tags/</guid>
+        <link>http://mediaunmasked.com/tutorials/coding/learn-css-tags/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-css-tags/</guid>
       </item>
     
   </channel>
