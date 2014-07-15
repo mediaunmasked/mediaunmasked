@@ -5031,18 +5031,6 @@ article a[href^="https://"]::after {
   bottom: 10px;
   left: 3px; }
 
-article a[href^="http://localhost"]::after, article p a[href^="http://mediaunmasked.com"]::after {
-  background: none;
-  margin: 0;
-  padding: 0;
-  position: initial; }
-
-article a[href^="http://"] img::after, article a[href^="https://"] img::after {
-  background: none;
-  margin: 0;
-  padding: 0;
-  position: initial; }
-
 blockquote {
   font-size: 1.1em; }
   blockquote footer {

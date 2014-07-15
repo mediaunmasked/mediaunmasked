@@ -1,18 +1,55 @@
 $(function(){
+	// Change active nav color
+	var activenav = $('#activenav').text();
+	$('.active').removeClass('active');
+	$('ul.nav a[href="http://mediaunmasked.com/'+activenav+'"]').parent().addClass('active');
 
-	// Activate isotope
-	$('#isotope').isotope({
-	itemSelector : '.item',
+	// Add subnav colors
+	var subnav = $('#subnav').text();
+	if (subnav == 'coding') {
+		// $('.active a').addClass('menucoding');
+		$('.active a').append("<img class='imgnav' src='http://i.imgur.com/kQayRdS.png'>");
+	}
+	if (subnav == 'internet') {
+		// $('.active a').addClass('menuinternet');
+		$('.active a').append("<img class='imgnav' src='http://i.imgur.com/60bvRYD.png'>");
+	}
+	if (subnav == 'misc') {
+		// $('.active a').addClass('menumisc');
+		$('.active a').append("<img class='imgnav' src='http://i.imgur.com/o3NkCfu.png'>");
+	}
+	if (subnav == 'photography') {
+		// $('.active a').addClass('menuphotography');
+		$('.active a').append("<img class='imgnav' src='http://i.imgur.com/WPHAbPi.png'>");
+	}
+	if (subnav == 'photoshop') {
+		// $('.active a').addClass('menuphotoshop');
+		$('.active a').append("<img class='imgnav' src='http://i.imgur.com/0mbnoRO.jpg'>");
+	}
+
+	// Remove link image from images
+	$('img').parent().addClass('imglink');
+
+	// Open external links in new window and add rel=nofollow
+	var a = $(this);
+	var href = a.attr('href');
+
+	$("a[href^='http://']").each(function () {
+		if(this.href.indexOf(location.hostname) == -1) {
+			$(this).attr('target', '_blank');
+			$(this).attr('title', 'Click to open in a new window');
+			$(this).attr('rel', 'nofollow');
+		}
+	});
+	$("a[href^='https://']").each(function () {
+		if(this.href.indexOf(location.hostname) == -1) {
+			$(this).attr('target', '_blank');
+			$(this).attr('title', 'Click to open in a new window');
+			$(this).attr('rel', 'nofollow');
+		}
 	});
 
-	// Filter items when filter link is clicked
-	$('#filters button').click(function(){
-	var selector = $(this).attr('data-filter');
-	$('#isotope').isotope({ filter: selector });
-	return false;
-	});
-
-});
+}); // End all
 
 // Get youtube video title
 // var video_id = $('#sitemap-vid').text();

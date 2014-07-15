@@ -38,7 +38,7 @@
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i1.wp.com/mediaunmasked.com/wp-content/uploads/2013/09/Lincoln-bw.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/4uNP4C0.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -81,20 +81,20 @@
   &lt;li&gt;Reduce the saturation to -100&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/i.imgur.com/UOsPNOM.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/UOsPNOM.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Click on the thumbnail on layer one and change the blend mode to color dodge&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/i.imgur.com/clmoSLq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/clmoSLq.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Invert the image by pressing ctrl+i&lt;/li&gt;
   &lt;li&gt;Navigate to Filter -&amp;gt; Blur -&amp;gt; Gaussian Blur&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i0.wp.com/i.imgur.com/6uOGuSb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/6uOGuSb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Slide the radius to an appropriate amount that looks good and cartoonish&lt;/li&gt;
@@ -102,7 +102,7 @@
   &lt;li&gt;Add a Levels adjustment layer and slide the input darks to the right until the face looks good&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i1.wp.com/i.imgur.com/s5UfkSS.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/s5UfkSS.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Note:&lt;/em&gt; If the other areas are too dense, brush in (40% black) areas that are too dense&lt;/li&gt;
@@ -112,7 +112,7 @@
   &lt;li&gt;Voila — You’ve drawn a cartoon (kinda)!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i0.wp.com/i.imgur.com/8RLzQ04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/8RLzQ04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Sep 2014 00:00:00 -0400</pubDate>
         <link>http://mediaunmasked.com/tutorials/photoshop/how-to-cartoon-yourself-in-photoshop/</link>
@@ -123,7 +123,7 @@
         <title>User Experience - Feedback, Recovery, Simplicity, Goal Oriented</title>
         <description>&lt;h1 id=&quot;user-experience---feedback-recovery-simplicity-goal-oriented&quot;&gt;User Experience - Feedback, Recovery, Simplicity, Goal Oriented&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;div class=&quot;bg-warning&quot;&gt;This post is a continuation to part 1 on user experience. You can check out that post first by clicking &lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-1&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;div class=&quot;bg-warning&quot;&gt;This post is a continuation to part 1 on user experience. You can check out that post first by clicking &lt;a href=&quot;http://mediaunmasked.com/tutorials/misctut/user-experience-part-1&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
 
 &lt;!-- Adblock checker --&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
@@ -144,7 +144,7 @@
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		else {
 			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
@@ -270,11 +270,11 @@
 &lt;p&gt;Eric Reis, of Usable Usability: Simple Steps for Making Stuff Better, says that “this rather soophisticated mathematical equation predicts that the time required to rapidly move to a target area is a function of the distance to the target and the size of the target,” which basically means that a small button is harder to click than a big one. So, again, make more important and most used buttons in more prominent locations.&lt;/p&gt;
 
 &lt;h3 id=&quot;structure&quot;&gt;Structure&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/i.imgur.com/kFr3ZVt.png&quot; alt=&quot;&quot; class=&quot;pull-left&quot; /&gt;The next part of simplicity is how components are placed in relation to each other. This ideology was outlined in the Gestalt Principles by some smart guys who said that the human brain sees order in the form of shapes, figures, and objects. You might see two faces in the image to the left (black) or a lamp (white). Johnson points out that “the most important Gestalt principles are: proximity, similarity, continuity, closure, symmetry, figure/ground, and common fate.” This can be seen in word processing programs like Google Docs, where similar tools are grouped together.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/kFr3ZVt.png&quot; alt=&quot;&quot; class=&quot;pull-left&quot; /&gt;The next part of simplicity is how components are placed in relation to each other. This ideology was outlined in the Gestalt Principles by some smart guys who said that the human brain sees order in the form of shapes, figures, and objects. You might see two faces in the image to the left (black) or a lamp (white). Johnson points out that “the most important Gestalt principles are: proximity, similarity, continuity, closure, symmetry, figure/ground, and common fate.” This can be seen in word processing programs like Google Docs, where similar tools are grouped together.&lt;/p&gt;
 
 &lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
 &lt;p&gt;In college, early design classes taught us that basic design elements are &lt;strong&gt;contrast&lt;/strong&gt;, &lt;strong&gt;repetition&lt;/strong&gt;, &lt;strong&gt;alignment&lt;/strong&gt;, and &lt;strong&gt;proximity&lt;/strong&gt;. Which, when put as a acronym, spell CRAP. &lt;em&gt;Oh, college&lt;/em&gt;. Your text should be clearly visible on any screen. Contrast difference is recommended to be as high as possible, while still looking okay. Furthermore, since people are reading on a monitor and not necessarily a tablet or phone, keep in mind the font size when designing a site for multiple devices. The recommended font size for good readability on a computer monitor is actually 16 pixels. However, since 12 pixels is a good size for books, the same can be said for tablets and phones.
-&lt;img src=&quot;http://i0.wp.com/i.imgur.com/XfiMphT.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://i.imgur.com/XfiMphT.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;vocabulary&quot;&gt;Vocabulary&lt;/h3&gt;
 &lt;p&gt;Avoid jargon and say less. Johnson recommends “don’t force [your users] to learn a whole new vocabulary… familiar words are easier to read and understand because they can be recognized automatically.” Krug advices “the most important thing you can do, is to just understand the basic principle of eliminating question marks.” Don’t let the vocabulary of your site or app slow the process of using it. “ … just by being there, all the extra words suggest that you may actually need to read them to understand what’s going on … which often makes pages seem more daunting than they already are.”&lt;/p&gt;
@@ -316,7 +316,7 @@ If this article helped, consider sharing it to let other designers and developer
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		else {
 			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
@@ -362,12 +362,12 @@ If this article helped, consider sharing it to let other designers and developer
 &lt;h2 id=&quot;the-spectrum-of-user-experience&quot;&gt;The Spectrum of User Experience&lt;/h2&gt;
 &lt;p&gt;I found this amazing infographic a while ago and I thought it eloquently defined each sector of user experience. From business to technology to design, it graphs out the importance and overlapping areas of interest in usability of a website or other product. It’s a nice introduction to UX and is interesting to review.&lt;/p&gt;
 
-&lt;div class=&quot;thumbnail&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif&quot; alt=&quot;The Spectrum of User Experience Chart&quot; /&gt;&lt;a href=&quot;https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif&quot;&gt;Source&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;&lt;img src=&quot;http://i.imgur.com/porMGjN.gif&quot; alt=&quot;The Spectrum of User Experience Chart&quot; /&gt;&lt;a href=&quot;https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif&quot;&gt;Source&lt;/a&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
 &lt;p&gt;Andrew Price, a Blender expert who makes &lt;a href=&quot;https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g&quot;&gt;Blender Tutorials&lt;/a&gt; on YouTube, discussed in his videos (below) the major usability problems associated with Blender, a 3D modelling software, and I think any person who makes things can learn from what he has to say. He discusses the importance design has on the community - the potential turn-off a bad user experience can be (yes, I’m looking at you, pop-up windows!) From a content perspective (consuming or creating), anything that intrudes the content isn’t necessary and shouldn’t be there. Sure, you’ll get in front of the viewer’s eyes, but you might also be creating a bad first impression. It’s pretty clear, by looking at the popularity of search engines, that the one(s) that optimize for their purpose have come out on top. If you add intrusivity, you’re just adding unnecessary noise that will have a negative effect on the consumers. Price says he initially discredited the sceptics of the design as being lazy and not wanting to learn the software, but now he sometimes finds himself lost in the interface (after using it for 10+ years). As always, tools are made to help get a specific task done; the tools that completes the task with minimal obstruction will come out on top.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i1.wp.com/i.imgur.com/tHkyYCu.jpg?zoom=1.5&amp;amp;resize=1905%2C525&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/tHkyYCu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;userbase--community&quot;&gt;Userbase &amp;amp; Community&lt;/h2&gt;
 &lt;p&gt;The most popular software will always have the largest user base in our online, global market. The more users there are, the more experienced developers there are, especially on open source software like Blender. Price exemplifies the benefits of a large user base with 3DS Max. They have plugins that anyone can develop to better the software extraordinarily. The same can be said for open source extensions (in web browsers) or apps (for devices). The more, the merrier!&lt;/p&gt;
@@ -503,7 +503,7 @@ Now, it’s all about optimizing the user interface to enable the user to connec
 &lt;h2 id=&quot;consistency&quot;&gt;Consistency&lt;/h2&gt;
 &lt;p&gt;“The more consistent the operation of different functions, the less users have to learn,” according to Johnson. This is the core of designing software or a website. Users shouldn’t have to think about the medium or tool that they are using to get their desired end result. Consistency reduces the learning curve. For example, nearly all programs share similar shortcut key bindings with other programs and even an operating system, such as ctrl+x to cut, ctrl+c to copy, ctrp+v to paste, and so on. YouTube has even adopted a few common shortcuts among video editing programs. J is notorious for rewinding, K stops, and L fast forwards video and YouTube uses the same shortcuts. Programs or websites that minimize the amount of time that their users go from a slow operation to an automatic and faster operation will likely see more success.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/i.imgur.com/xWNANK9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/xWNANK9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A bad example of consistency among programs can be seen in PhotoShop, as pointed out by the first video (~6:45). Price shows how in one dialogue, it uses the word “Tolerance,” but in another it uses “Fuzziness,” which can create some confusion. I’m sure everyone has seen an example of an inconsistent website. Most school sites have horrible consistency due to the many different people in control of the design.&lt;/p&gt;
 
@@ -544,7 +544,7 @@ A few great examples of this can be found when you’re asked to save when you c
 
 &lt;p&gt;This post described the importance of consistency, familiarity, recognition, and error prevention have on a user’s experience; Be it on the web, software, or product, user experience is crucial to the health and growth of the community around the product. There are many different subcategories in the spectrum of user experience that are also important to pay attention to, but the four listed above are especially important. There are still four more usability standards that should be addressed (per the compiled table above). To read the rest, click the link below!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LhAcM8d.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mediaunmasked.com/tutorials/misctut/user-experience-part-2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LhAcM8d.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jun 2014 06:00:00 -0400</pubDate>
         <link>http://mediaunmasked.com/tutorials/misctut/user-experience-part-1/</link>
@@ -676,7 +676,7 @@ To avoid (handheld) blur, make your shutter speed around the same number as the 
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i0.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/gulpjs.jpg?zoom=1.5&amp;resize=1920%2C1080) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/VRDmyXv.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -782,7 +782,7 @@ gulp.run(&#39;styles&#39;, &#39;scripts&#39;, &#39;watch&#39;);
         <description>&lt;h1 id=&quot;surface-pro-3-specs-i5-vs-i7-wacom-vs-n-trig-free-keyboard&quot;&gt;Surface Pro 3 Specs, i5 vs i7, Wacom vs N-Trig, Free Keyboard&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a class=&quot;imglink&quot; href=&quot;http://click.linksynergy.com/fs-bin/click?id=c7NIkJYZlzo&amp;amp;offerid=336830.10000732&amp;amp;subid=0&amp;amp;type=4&quot;&gt;
-	&lt;img class=&quot;pull-right thumbnail&quot; src=&quot;http://i2.wp.com/i.imgur.com/3cfxrpt.jpg&quot; alt=&quot;Surface Pro 3 Discount&quot; /&gt;
+	&lt;img class=&quot;pull-right thumbnail&quot; src=&quot;http://i.imgur.com/3cfxrpt.jpg&quot; alt=&quot;Surface Pro 3 Discount&quot; /&gt;
 &lt;/a&gt;
 In Microsoft’s reveal, the big message they wanted to convey was that this device is meant to replace your laptop and tablet. With a full Windows 8.1 operating system, the Surface Pro 3 can run any application that you would on your laptop. Microsoft hopes that the Surface Pro 3 will replace your tablet and laptop; they hope to replace your main entertainment device &lt;em&gt;and&lt;/em&gt; productivity device. I respect its innovation and think it has accomplished what it has set out to do.&lt;/p&gt;
 
@@ -809,7 +809,7 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 &lt;h2 id=&quot;not-quite-a-laptop-without-a-keyboard&quot;&gt;Not Quite A Laptop Without A Keyboard&lt;/h2&gt;
 &lt;p&gt;Microsoft has really been pushing the fact that the Surface Pro 3 will replace your laptop, but they sell it without a keyboard! I know you can use the on-screen keyboard, but to compete with any serious laptop, you need a physical keyboard, which will run you another $130. There is a few different colors you can choose from, which is nice. However, the blue touch cover is exclusive to &lt;a href=&quot;http://www.bestbuy.com/site/microsoft-surface-pro-3-type-cover-blue/6728113.p?id=1219234626759&amp;amp;skuId=6728113&amp;amp;st=surface%20pro%203&amp;amp;cp=1&amp;amp;lp=7&quot;&gt;Best Buy&lt;/a&gt; and the red touch cover is exclusive to &lt;a href=&quot;http://click.linksynergy.com/fs-bin/click?id=c7NIkJYZlzo&amp;amp;offerid=336830.10000748&amp;amp;subid=0&amp;amp;type=4&quot;&gt;Microsoft&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i1.wp.com/i.imgur.com/TG2QzIn.jpg?zoom=1.5&amp;amp;resize=1400%2C283&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/TG2QzIn.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;get-a-free-keyboard&quot;&gt;Get A Free Keyboard&lt;/h2&gt;
 &lt;p&gt;Let’s face it – it’s just not a laptop without the touch cover. There are promotions Microsoft offers that can save you a lot of money, especially if you’re a student. First, there is a promotion going on right now that offers 10% off products from the Microsoft store. So, if you’re buying a $1300 Surface Pro 3 (the model I have), you’ll get $130 off, which is the price of the keyboard. If you want any touch cover, except the blue one exclusive to Best Buy, you can also get 10% off of it. If you’re not a student, you can still get 5% off by &lt;a href=&quot;https://microsoftstore.promo.eprize.com/mobile/&quot;&gt;giving your phone number to Microsoft&lt;/a&gt; (note: this doesn’t stack with the student discount). After you sign up for that, you can stop the promotion texts by replying with “STOP”. If you’re wanting a wireless, bluetooth, mouse, Microsoft has made a very thin and compact mouse (that flattens) called the &lt;a href=&quot;http://amzn.to/S7Vsb0&quot;&gt;Arc Touch Mouse&lt;/a&gt;.&lt;/p&gt;
@@ -865,7 +865,7 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i1.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/maxresdefault.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/s9M9nEd.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -956,7 +956,7 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i0.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/5.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/Fo0a5EB.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -1062,7 +1062,7 @@ In Microsoft’s reveal, the big message they wanted to convey was that this dev
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i2.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/4.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/EM74u8x.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -1143,7 +1143,7 @@ JQuery function parameters – &lt;a href=&quot;http://learn.jquery.com/javascri
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i0.wp.com/mediaunmasked.com/wp-content/uploads/2014/05/3.jpg?zoom=1.5&amp;resize=1280%2C720) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/TSRST62.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
