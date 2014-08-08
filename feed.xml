@@ -22,9 +22,12 @@
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
 	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
 	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;K43-_zhQZiM&lt;/div&gt;
@@ -55,12 +58,15 @@
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
 		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
@@ -68,6 +74,7 @@
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		&lt;/script&gt;
 	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 &lt;p&gt;When I was a young kid, I loved drawing and was decent (for my age) at it. Now that I’m older, there’s no keeping up to the pros that draw masterpiece cartoons like it’s nothing, so I installed Photoshop. With Photoshop, you can make any picture look like it was hand drawn to add a cartoon effect to any image.&lt;/p&gt;
@@ -120,6 +127,321 @@
       </item>
     
       <item>
+        <title>Don&#39;t Starve Review</title>
+        <description>&lt;h1 id=&quot;dont-starve-review&quot;&gt;Don’t Starve Review&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- YouTube player test --&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
+	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+	&lt;div style=&quot;float:left;&quot;&gt;&lt;iframe src=&quot;http://store.steampowered.com/widget/219740/27214&quot; frameborder=&quot;0&quot; width=&quot;646&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+	
+	&lt;a href=&quot;http://bit.ly/dontstarve-ps4&quot;&gt;&lt;img style=&quot;padding: 2px; width: 80px;&quot; src=&quot;http://i.imgur.com/dZsdw9n.png&quot; /&gt;&lt;/a&gt;
+	
+	
+		
+	
+	
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
+	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;container&quot;&gt;
+		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;TQxqvAduIG8&lt;/div&gt;
+		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
+		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
+		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
+		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;gewgleahds&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/vIlmxAI.png) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+		document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;Or show your support by saying you\&#39;d like to read and watch more content.&lt;br&gt;(I won\&#39;t spam your email, promise)&lt;div id=&quot;mc_embed_signup&quot;&gt;&lt;form action=&quot;http://mediaunmasked.us8.list-manage.com/subscribe/post?u=c16fd8c269066ee10b5b0a14d&amp;amp;id=33e2ff4270&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form&quot; class=&quot;validate&quot; role=&quot;form&quot; target=&quot;_blank&quot; novalidate style=&quot;margin: 0 auto; max-width: 300px; height: 40px;&quot;&gt;&lt;div class=&quot;mc-field-group form-group&quot;&gt;&lt;input type=&quot;email&quot; value=&quot;&quot; name=&quot;EMAIL&quot; class=&quot;required email form-control&quot; id=&quot;mce-EMAIL&quot; placeholder=&quot;Email&quot; style=&quot;max-width: 200px;&quot;&gt;&lt;/div&gt;&lt;div id=&quot;mce-responses&quot; class=&quot;clear&quot;&gt;&lt;div class=&quot;response&quot; id=&quot;mce-error-response&quot; style=&quot;display:none&quot;&gt;&lt;/div&gt;&lt;div class=&quot;response&quot; id=&quot;mce-success-response&quot; style=&quot;display:none&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;position: absolute; left: -5000px;&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;b_c16fd8c269066ee10b5b0a14d_33e2ff4270&quot; tabindex=&quot;-1&quot; value=&quot;&quot;&gt;&lt;/div&gt;&lt;input type=&quot;submit&quot; value=&quot;Subscribe&quot; name=&quot;subscribe&quot; id=&quot;mc-embedded-subscribe&quot; class=&quot;button&quot; style=&quot;position: relative; bottom: 50px; left: 200px;&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
+	}
+	//--&gt;
+&lt;/script&gt;
+	&lt;div class=&quot;text-center hidden-md hidden-lg&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;text-center hidden-xs hidden-sm hidden-md&quot; style=&quot;margin: 4px 0px 0px -10px;&quot;&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 336 x 280 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
+	&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;table class=&quot;table table-striped&quot;&gt;
+	&lt;tr&gt;&lt;h2&gt;Game Information&lt;/h2&gt;&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Genres&lt;/td&gt;
+		&lt;td&gt;Survival, Adventure, Sandbox&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Devices&lt;/td&gt;
+		&lt;td&gt;PC, PS4&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Release Dates&lt;/td&gt;
+		&lt;td&gt;April 23, 2013 (PC)&lt;br /&gt;January 7, 2014 (PS4)&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Co-op&lt;/td&gt;
+		&lt;td&gt;Singleplayer &amp;amp; Multiplayer&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Retail Price&lt;/td&gt;
+		&lt;td&gt;$14.99&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Don’t Starve is a sandbox-style game with a simple goal in mind - see how long you can stay alive. It’s pleasant to watch and it’s addicting to play. The sudden panic nightfall creates when you’ve been focusing on crafting, fighting, and scavanging will keep you wanting more.&lt;/p&gt;
+
+&lt;table class=&quot;table-bordered text-center&quot;&gt;&lt;tr&gt;&lt;td class=&quot;col-md-6&quot;&gt;Time played&lt;/td&gt;&lt;td class=&quot;col-md-6&quot;&gt;Rating&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class=&quot;col-md-6&quot;&gt;&lt;span style=&quot;font-size: 2em;&quot;&gt;&lt;b&gt;60+ hours&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;&lt;td class=&quot;col-md-6&quot;&gt;&lt;div class=&quot;rating&quot;&gt;&lt;img src=&quot;http://mediaunmasked.com/assets/images/8.5.png&quot; /&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-rounded&quot; src=&quot;http://i.imgur.com/qapqIr6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting as a character named Wilson - stranded in the middle of nowhere with nothing to your name, you’re expected to survive and explore the area. From pigs to walking eyeballs, there are many different creatures you can kill for resources in order to craft tools, clothes, structures, and more. You’ll need to craft many of these things if you expect to survive the cold, winter nights that will eventually sneak up on you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-rounded&quot; src=&quot;http://i.imgur.com/uJda6CJ.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a sandbox game, meaning the worlds are randomly generated and you’re free to roam wherever you wish. Don’t Starve is also very much a survival game, something Minecraft has popularized, which means that the overarching theme is simply to stay alive. You can achieve survival by mainting three stats that are constently deteriorating: &lt;strong&gt;Health&lt;/strong&gt;, &lt;strong&gt;Hunger&lt;/strong&gt;, and &lt;strong&gt;Sanity&lt;/strong&gt;. Health will go down when monsters attack you, you eat something nasty, and a few more ways. Your hunger slowly lowers over time and you can maintain it by eating different foods you can gather or hunt: berries, vegetables, or animal meat. Your sanity is what keeps the shadow monsters at bay. When your sanity is low enough, the shadow monsters can actually hurt you. There are many ways to raise your sanity, but an easy way is to minimize the time spent in swamps and other scary areas while maximizing the time spent picking flowers. The best way to learn about the game is to jump in and play. You won’t survive many days on your first try, but you’ll learn how things work and what you should build on your next go.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-rounded&quot; src=&quot;http://i.imgur.com/X3dKwx8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While you start out as Wilson, each death will reward you in experience that will unlock new characters (up to the top two characters – who can only be unlocked by playing the objective. The different characters have unique abilities that can be used to your advantage or disadvantage, depending on your preference and gameplay style.&lt;/p&gt;
+
+&lt;h2 id=&quot;game-mechanics&quot;&gt;Game Mechanics&lt;/h2&gt;
+
+&lt;p&gt;It’s always nice to find a game that performs just as well as it looks. Don’t Starve works as expected and doesn’t take much time at all to learn the controls. The controls are pretty intuitive – you can use a mouse or keyboard to control the movements and actions or even a PS4/Xbox One/Gamepad controler (on the computer or PS4). The learning curve is low, making it more accessible to more people.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-rounded&quot; src=&quot;http://i.imgur.com/dq2eVBN.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay----aesthetics-amp-music&quot;&gt;Gameplay – Aesthetics &amp;amp; Music&lt;/h2&gt;
+
+&lt;h3 class=&quot;pull-left&quot;&gt;E.F.S (Epic Fight Song)&lt;/h3&gt;
+&lt;div class=&quot;audio-container&quot;&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/vEpb4kJF1Nc?probably_logged_in=0&amp;amp;autohide=0&amp;amp;fs=0&amp;amp;showinfo=0&amp;amp;modestbranding=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;One of the main attractionsto this game is its unique, hand-drawn, children pop-up book style. It’s visually pleasant for spectators and has a great color scheme and overall style. The fitting music is also easy on the ears and catchy. It will keep you drawn to the game almost as much as the visuals. &lt;em&gt;Don’t Starve&lt;/em&gt; is put into a nice package that portrays a unique art style with engaging gameplay. I highly recommend getting this game for $15 and trying it out for yourself!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/dftUuKX.jpg&quot; alt=&quot;&quot; class=&quot;img-rounded&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;multiplayer&quot;&gt;Multiplayer&lt;/h3&gt;
+
+&lt;p&gt;Klei Entertainment (the creators of Don’t Starve) plans on creating a multiplayer experience to current owners of Don’t Starve as a free update called Don’t Starve Together. There are many questions that they are currently trying to work out that works well in a single player experience, but would cause problems with other players.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Multiplayer Alpha officially coming Summer 2014&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One their &lt;a href=&quot;http://forums.kleientertainment.com/forum/66-dont-starve-together-general-discussion/&quot;&gt;forum post&lt;/a&gt;, they mentioned that they are aiming for a minimum of 4 players on the multiplayer version. Unfortunately, they are prioritizing multiplayer for the PC and hope to add it to the PS4 version of Don’t Starve at a later time. You can expect to see some PVP or co-op in the multiplayer coming within this summer (within two months from when this post is written).&lt;/p&gt;
+
+&lt;!-- Adblock checker --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+    var adblock = true;
+//--&gt;
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- YouTube player test --&gt;
+&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
+	&lt;div class=&quot;video-container&quot;&gt;
+		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/jlWgtMgukZ0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		&lt;!--
+		if (adblock) {
+			document.write(&#39;&lt;div class=&quot;img-byvideo&quot;&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/vIlmxAI.png) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
+		}
+		else {
+			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
+		}
+		//--&gt;
+		&lt;/script&gt;
+		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
+			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+			&lt;!-- 336 x 280 --&gt;
+			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+			&lt;script&gt;
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			&lt;/script&gt;
+		&lt;/div&gt;
+
+	&lt;script type=&quot;text/javascript&quot;&gt;
+	&lt;!--
+	if (adblock) {
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:156px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
+	}
+	//--&gt;
+	&lt;/script&gt;
+	
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+	&lt;div class=&quot;text-center&quot;&gt;
+		&lt;br /&gt;
+		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+		&lt;!-- 320 x 100 --&gt;
+		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+		&lt;script&gt;
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		&lt;/script&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 29 Jul 2014 06:00:00 -0400</pubDate>
+        <link>http://mediaunmasked.com/reviews/games/dont-starve/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/reviews/games/dont-starve/</guid>
+      </item>
+    
+      <item>
+        <title>Best Ways To Earn Money By Searching The Internet With Swagbucks</title>
+        <description>&lt;h1 id=&quot;best-ways-to-earn-money-by-searching-googlebing&quot;&gt;Best Ways To Earn Money By Searching Google/Bing&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;There are many different ways you can use &lt;a href=&quot;http://swagbucks.com/refer/MediaUnmasked&quot;&gt;SwagBucks&lt;/a&gt; to earn points that can be redeemed for money by doing things online. There are other programs similar to SwagBucks that encourage people to use their product, such as Microsoft’s search engine, Bing. While there are dozens of online rewarding sites, I think SwagBucks is, currently, the best, in terms of usability and rewards. There are many different ways to earn SwagBucks, including the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Search&lt;/li&gt;
+  &lt;li&gt;Swag codes&lt;/li&gt;
+  &lt;li&gt;No obligation special offers (NOSO)&lt;/li&gt;
+  &lt;li&gt;Daily crave&lt;/li&gt;
+  &lt;li&gt;Daily poll&lt;/li&gt;
+  &lt;li&gt;Watch videos&lt;/li&gt;
+  &lt;li&gt;Play games&lt;/li&gt;
+  &lt;li&gt;Fill out offers&lt;/li&gt;
+  &lt;li&gt;Shop&lt;/li&gt;
+  &lt;li&gt;Trade&lt;/li&gt;
+  &lt;li&gt;Membership&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;search&quot;&gt;Search&lt;/h3&gt;
+&lt;p&gt;SwagBucks makes it possible for you to earn more by doing different activities, but the traditional method and probably the most reliable is just by using the search engine, which is a combination of a few different search engines like Google and Yahoo. The most popular and probably the &lt;strong&gt;best method of getting SwagBucks&lt;/strong&gt; is by simply setting your search engine to use SwagBucks. Because Swagbucks uses Google results, you won’t miss much of the content that you would have found otherwise (if there is something that you need the best results for, just go to &lt;a href=&quot;http://google.com&quot;&gt;Google&lt;/a&gt;. The layout is a bit different, so it might take some getting used to. I actually like the image and video result page – maybe even more than Google’s. Each browser allows you to get a toolbar, extension, or plugin of some sort that makes it easier to do all the activities related to earning SwagBucks, including search. If you’re using Google Chrome, the process to set up SwagBucks as your default search engine (when you search in the address bar) is quite simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignright&quot; src=&quot;http://i.imgur.com/F0V9HGY.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Right click the address bar at the top of Chrome and select “Edit search engines…”&lt;/li&gt;
+  &lt;li&gt;Scroll down until you see the form to add a new search engine&lt;/li&gt;
+  &lt;li&gt;In the first field, type in Swagbucks&lt;/li&gt;
+  &lt;li&gt;In the second field, type in any keyword you want.&lt;/li&gt;
+  &lt;li&gt;In the third field, paste the following: &lt;code&gt;http://www.swagbucks.com/?f=2&amp;amp;amp;t=w&amp;amp;amp;p=1&amp;amp;amp;q=%s&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Click the blue “Make default” button to the right (when you hover your mouse over it)&lt;/li&gt;
+  &lt;li&gt;Now, when you type anything in the top bar, you’ll use SwagBucks to search for it&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://i.imgur.com/3mJuzrZ.jpg&quot; alt=&quot;&quot; width=&quot;730&quot; height=&quot;192&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just set it as your default browser and forget about it. You’ll occasionally earn anywhere from &lt;em&gt;about &lt;strong&gt;5-50&lt;/strong&gt; points&lt;/em&gt; on a search. Search when you need to search and the points will add up. I believe there is a limit to the amount of points you can earn by searching per hour, so just use it as normal and don’t try to game the system.&lt;/p&gt;
+
+&lt;h3 id=&quot;swag-codes&quot;&gt;Swag Codes&lt;/h3&gt;
+&lt;p&gt;Often there is a code that SwagBucks will shout on their social media and, when entered, will get you some free points. Some days there are many and some days there is only one code. For each code, you can usually &lt;em&gt;win anywhere from &lt;strong&gt;1 to 5&lt;/strong&gt; SwagBucks&lt;/em&gt;. To make it easier, there are sites like &lt;a href=&quot;http://sc-s.com/&quot;&gt;swagcode spoilers&lt;/a&gt; that post the codes directly on their site. If you only do two things to get SwagBucks, it would be search and enter the codes (some days they give out many points, so it’s worth using).&lt;/p&gt;
+
+&lt;h3 id=&quot;no-obligation-special-offers-noso&quot;&gt;No Obligation Special Offers (NOSO)&lt;/h3&gt;
+&lt;p&gt;This is a pretty simple one. Once a day, you can do No Obligation Special Offers, or &lt;em&gt;NOSO&lt;/em&gt; for short. Just click skip on all the offers and you’re rewarded with &lt;em&gt;about &lt;strong&gt;2&lt;/strong&gt; SwagBucks&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://i.imgur.com/Lb4sNwA.jpg&quot; alt=&quot;&quot; width=&quot;960&quot; height=&quot;628&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://i.imgur.com/aGmnxlF.jpg&quot; alt=&quot;&quot; width=&quot;652&quot; height=&quot;237&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;daily-crave&quot;&gt;Daily Crave&lt;/h3&gt;
+&lt;p&gt;Daily crave is a new feature they introduced that reminds me a lot like StumpleUpon. The difference is that you need to stay on the featured site for about 40 seconds before you can go to the next. Once you visit two sites, you get a &lt;em&gt;whopping &lt;strong&gt;1&lt;/strong&gt; SwagBuck&lt;/em&gt;. Not the best reward, but it’s another way to earn. You can do this as much as you want.&lt;/p&gt;
+
+&lt;h3 id=&quot;daily-poll&quot;&gt;Daily Poll&lt;/h3&gt;
+&lt;p&gt;To earn another &lt;em&gt;whole &lt;strong&gt;1&lt;/strong&gt; SwagBuck&lt;/em&gt;, you can do the daily poll. It’s as simple as going to the poll page, clicking an option, and then submitting it. Much faster than the daily crave, but you’re limited to one per day.&lt;/p&gt;
+
+&lt;h3 id=&quot;watch-videos&quot;&gt;Watch Videos&lt;/h3&gt;
+&lt;p&gt;If you want to get a few more SwagBucks by doing other activities, they offer different options, one of which is watching videos. On the desktop site, &lt;em&gt;you need to watch 10 videos to get the reward, which is &lt;strong&gt;3&lt;/strong&gt; SwagBucks&lt;/em&gt;. The videos can be a few minutes long each, so this process can take a while. I mean, you watch YouTube videos for free, so this isn’t that bad. Some of the videos are actually entertaining. If you want it to run in the background muted, that’s fine too. You can earn up to 150 a day by doing this.&lt;/p&gt;
+
+&lt;p&gt;There’s also an app for Android and iOS called SwagBucks TV. Unlike the desktop video player, the app will autoplay each video (with an advertisement) and reward you 2 SwagBucks every 5 videos watched. Sometimes the app will stop and give you an error, but sometimes I just turn it on and let it go, so it plays in the background.&lt;/p&gt;
+
+&lt;h3 id=&quot;play-games&quot;&gt;Play Games&lt;/h3&gt;
+&lt;p&gt;For this section, you basically need to watch a preroll ad and then play a game for some points, depending on your score. If you use an ad blocker, you’ll need to disable it if you want to get points playing the games. You’ll also need Adobe flash player because the games are flash games. I would only recommend this method if you really enjoy the game and find it entertaining, seeing as &lt;em&gt;the payout isn’t great&lt;/em&gt;. If you’re &lt;em&gt;really&lt;/em&gt; into a particular game, you can participate in a tournament. Tournaments have an entry fee of a few SwagBucks and the first, second, and third place people get a SwagBucks payout.&lt;/p&gt;
+
+&lt;h3 id=&quot;fill-out-offers&quot;&gt;Fill Out Offers&lt;/h3&gt;
+&lt;p&gt;There are special offers, similar to the no obligation special offers, but these have an obligation for you to do, but &lt;em&gt;you’ll earn more points&lt;/em&gt;. If you fill out these forms, you might want to use a dedicated spam email, because they’re likely to send you some.&lt;/p&gt;
+
+&lt;h3 id=&quot;shop&quot;&gt;Shop&lt;/h3&gt;
+&lt;p&gt;If you shop under the categories listed on the &lt;a href=&quot;http://www.swagbucks.com/shop&quot;&gt;SwagBucks shop page&lt;/a&gt;, you can &lt;em&gt;earn a specified amount of SwagBucks per dollar spent&lt;/em&gt;, which can be nice if you planned on buying something anyway. I haven’t yet used this, but there are many stores supported - even Amazon!&lt;/p&gt;
+
+&lt;h3 id=&quot;trade-in&quot;&gt;Trade In&lt;/h3&gt;
+&lt;p&gt;You can trade in your old electronics or books for some SwagBucks. Sometimes trade in programs aren’t the best way to get the most money from your old things, so beware. Remember that roughly 100 SwagBucks = 1 dollar if you’re buying gift cards. However, if you’re looking to just get rid of old games, maybe the trade in program would be perfect.&lt;/p&gt;
+
+&lt;h3 id=&quot;accelerator-program&quot;&gt;Accelerator Program&lt;/h3&gt;
+&lt;p&gt;SwagBucks is completely free to get everything it has to offer, but if you know you earn enough points to justify it, you can sign up for their Accelerator Program that will double or triple your earnings. The first level doubles your points earned up to 700 points that costs $5 per month. Anything above that and you’re profiting. The top level costs $10 per month but triples your SwagBucks rewards up to 1500 per month. So, the only justification to buying this would be &lt;em&gt;if you’re sure you can get at least 450 points in a month&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;rewards&quot;&gt;Rewards&lt;/h3&gt;
+&lt;p&gt;So what do you do with &lt;a href=&quot;http://mediaunmasked.com/reviews/software/bitcoin&quot;&gt;yet another digital currency&lt;/a&gt;? Well, with certain amount of SwagBucks, you can buy different gift cards - the most popular and cheapest being Amazon. There are also physical items that you can purchase, but they cost &lt;em&gt;a lot&lt;/em&gt; more than small gift cards (and in some cases it’s more economically efficient to get the gift cards). I’ve gotten &lt;strong&gt;over $150 in Amazon gift cards&lt;/strong&gt; since I started searching with SwagBucks. I bought my &lt;a href=&quot;http://amzn.to/1sfrUZA&quot; class=&quot;amazon&quot;&gt;Logitech G9x mouse&lt;/a&gt; with it, which I use every day. You’re not going to be making a lot of money in a short amount of time, but the bonus money is a nice little reward that you’re currently not getting by using traditional search engines. You can give it a try if you’d like (it’s free, of course) - &lt;a href=&quot;http://swagbucks.com/refer/MediaUnmasked&quot;&gt;sign up&lt;/a&gt; and start your long journey to earn some Amazon gift cards just by doing your everyday searches!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Jul 2014 06:00:00 -0400</pubDate>
+        <link>http://mediaunmasked.com/tutorials/internet/earn-money-by-searching/</link>
+        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/internet/earn-money-by-searching/</guid>
+      </item>
+    
+      <item>
         <title>User Experience - Feedback, Recovery, Simplicity, Goal Oriented</title>
         <description>&lt;h1 id=&quot;user-experience---feedback-recovery-simplicity-goal-oriented&quot;&gt;User Experience - Feedback, Recovery, Simplicity, Goal Oriented&lt;/h1&gt;
 &lt;hr /&gt;
@@ -144,7 +466,7 @@
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+			document.write(&#39;&lt;div class=&quot;img-byvideo&quot;&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 		}
 		else {
 			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
@@ -163,10 +485,13 @@
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:156px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 	&lt;div class=&quot;text-center&quot;&gt;
 		&lt;br /&gt;
@@ -316,7 +641,7 @@ If this article helped, consider sharing it to let other designers and developer
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
-			document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
+			document.write(&#39;&lt;div class=&quot;img-byvideo&quot;&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 		}
 		else {
 			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
@@ -335,10 +660,13 @@ If this article helped, consider sharing it to let other designers and developer
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:156px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 	&lt;div class=&quot;text-center&quot;&gt;
 		&lt;br /&gt;
@@ -567,9 +895,12 @@ A few great examples of this can be found when you’re asked to save when you c
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
 	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
 	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;cg8ayJkXeRk&lt;/div&gt;
@@ -600,12 +931,15 @@ A few great examples of this can be found when you’re asked to save when you c
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
 		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
@@ -613,6 +947,7 @@ A few great examples of this can be found when you’re asked to save when you c
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		&lt;/script&gt;
 	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
@@ -660,9 +995,12 @@ To avoid (handheld) blur, make your shutter speed around the same number as the 
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
 	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
 	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;4cxsXXfJetM&lt;/div&gt;
@@ -693,12 +1031,15 @@ To avoid (handheld) blur, make your shutter speed around the same number as the 
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
 		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
@@ -706,6 +1047,7 @@ To avoid (handheld) blur, make your shutter speed around the same number as the 
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		&lt;/script&gt;
 	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
@@ -794,9 +1136,12 @@ gulp.run(&#39;styles&#39;, &#39;scripts&#39;, &#39;watch&#39;);
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
 	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
 	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;WJx2n6va6jY&lt;/div&gt;
@@ -827,12 +1172,15 @@ gulp.run(&#39;styles&#39;, &#39;scripts&#39;, &#39;watch&#39;);
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
 		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
@@ -840,6 +1188,7 @@ gulp.run(&#39;styles&#39;, &#39;scripts&#39;, &#39;watch&#39;);
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		&lt;/script&gt;
 	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
@@ -874,7 +1223,7 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/TG2QzIn.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;get-a-free-keyboard&quot;&gt;Get A Free Keyboard&lt;/h2&gt;
-&lt;p&gt;Let’s face it – it’s just not a laptop without the touch cover. There are promotions Microsoft offers that can save you a lot of money, especially if you’re a student. First, there is a promotion going on right now that offers 10% off products from the Microsoft store. So, if you’re buying a $1300 Surface Pro 3 (the model I have), you’ll get $130 off, which is the price of the keyboard. If you want any touch cover, except the blue one exclusive to Best Buy, you can also get 10% off of it. If you’re not a student, you can still get 5% off by &lt;a href=&quot;https://microsoftstore.promo.eprize.com/mobile/&quot;&gt;giving your phone number to Microsoft&lt;/a&gt; (note: this doesn’t stack with the student discount). After you sign up for that, you can stop the promotion texts by replying with “STOP”. If you’re wanting a wireless, bluetooth, mouse, Microsoft has made a very thin and compact mouse (that flattens) called the &lt;a href=&quot;http://amzn.to/S7Vsb0&quot;&gt;Arc Touch Mouse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Let’s face it – it’s just not a laptop without the touch cover. There are promotions Microsoft offers that can save you a lot of money, especially if you’re a student. First, there is a promotion going on right now that offers 10% off products from the Microsoft store. So, if you’re buying a $1300 Surface Pro 3 (the model I have), you’ll get $130 off, which is the price of the keyboard. If you want any touch cover, except the blue one exclusive to Best Buy, you can also get 10% off of it. If you’re not a student, you can still get 5% off by &lt;a href=&quot;https://microsoftstore.promo.eprize.com/mobile/&quot;&gt;giving your phone number to Microsoft&lt;/a&gt; (note: this doesn’t stack with the student discount). After you sign up for that, you can stop the promotion texts by replying with “STOP”. If you’re wanting a wireless, bluetooth, mouse, Microsoft has made a very thin and compact mouse (that flattens) called the &lt;a href=&quot;http://amzn.to/S7Vsb0&quot; class=&quot;amazon&quot;&gt;Arc Touch Mouse&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;wacom-vs-n-trig&quot;&gt;Wacom Vs. N-Trig&lt;/h2&gt;
 &lt;p&gt;Charles Gbadamosi of TickTakashi &lt;a href=&quot;http://www.ticktakashi.com/2014/05/wacom-vs-n-trig-modern-comparison.html&quot;&gt;reviewed the technical aspects&lt;/a&gt; of this tablet in regards to the pen and the technology behind it. Initially, when the news that Wacom was no longer the tech behind Microsoft’s Surface, many people seemed upset because of two reasons: N-Trig’s past technology and pressure sensitivity levels. However, Charles points out the insignificance of the sensitivity number:&lt;/p&gt;
@@ -914,9 +1263,12 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
 	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
 	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;B8rYAcfywTQ&lt;/div&gt;
@@ -947,12 +1299,15 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
 		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
@@ -960,6 +1315,7 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		&lt;/script&gt;
 	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
@@ -1005,9 +1361,12 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 &lt;!-- YouTube player test --&gt;
 &lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
 	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;hidden-xs hidden-sm hidden-md&quot;&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
+	&lt;div class=&quot;transcript_title&quot;&gt;Video Transcript&lt;/div&gt;
 	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
 	&lt;div id=&quot;container&quot;&gt;
 		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;wkDc6KPvLhw&lt;/div&gt;
@@ -1038,12 +1397,15 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 	&lt;script type=&quot;text/javascript&quot;&gt;
 	&lt;!--
 	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
+	document.write(&#39;&lt;div class=&quot;hidden-md&quot;&gt;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt; Please consider donating.&lt;/h4&gt;&lt;div class=&quot;pull-left&quot;&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class=&quot;pull-right&quot; style=&quot;width:162px; padding:2px; overflow:hidden;&quot;&gt;&lt;a class=&quot;coinbase-button&quot; data-code=&quot;1004ee6bdd0de0c40fa0c545bea2b9c1&quot; data-button-style=&quot;custom_small&quot; href=&quot;https://coinbase.com/checkouts/1004ee6bdd0de0c40fa0c545bea2b9c1&quot;&gt;Donate Bitcoins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;&#39;);
 	}
 	//--&gt;
 	&lt;/script&gt;
+	&lt;!-- Bitcoin donate button --&gt;
+	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
 		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
@@ -1051,6 +1413,7 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		&lt;/script&gt;
 	&lt;/div&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
 
@@ -1092,167 +1455,6 @@ The &lt;a href=&quot;http://www.amazon.com/gp/product/B00KHR4ZL6/ref=as_li_tl?ie
         <pubDate>Wed, 14 May 2014 06:00:00 -0400</pubDate>
         <link>http://mediaunmasked.com/tutorials/coding/learn-jekyll/</link>
         <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-jekyll/</guid>
-      </item>
-    
-      <item>
-        <title>How To Learn JavaScript &amp; JQuery Tags</title>
-        <description>&lt;h1 id=&quot;how-to-learn-javascript--jquery-tags&quot;&gt;How To Learn JavaScript &amp;amp; JQuery Tags&lt;/h1&gt;
-&lt;hr /&gt;
-
-&lt;!-- Adblock checker --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-&lt;!--
-    var adblock = true;
-//--&gt;
-&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
-
-&lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
-	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot;&gt;
-		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;UQC9HHDA4RI&lt;/div&gt;
-		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
-		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
-		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
-		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
-		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;gewgleahds&quot;&gt;
-		&lt;script type=&quot;text/javascript&quot;&gt;
-		&lt;!--
-		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/EM74u8x.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
-		}
-		//--&gt;
-		&lt;/script&gt;
-		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
-			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-			&lt;!-- 336 x 280 --&gt;
-			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
-			&lt;script&gt;
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			&lt;/script&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-
-	&lt;script type=&quot;text/javascript&quot;&gt;
-	&lt;!--
-	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
-	}
-	//--&gt;
-	&lt;/script&gt;
-
-	&lt;div class=&quot;text-center&quot;&gt;
-		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-		&lt;!-- 320 x 100 --&gt;
-		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
-		&lt;script&gt;
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		&lt;/script&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;This video explains how to use JavaScript and JQuery to give your website some interactivity. This video series is to introduce website development for beginners who don’t know anything about making websites. This series assumes you don’t know anything about web development, but if I go beyond what you understand, ask me a question and I’ll try to get back to you as soon as possible!&lt;/p&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Episode 5 – Introduction To Jekyll – &lt;em&gt;link&lt;/em&gt;
-Episode 1 – Introduction To Web Development – &lt;a href=&quot;http://youtu.be/Zyu7SWI6wh4&quot;&gt;http://youtu.be/Zyu7SWI6wh4&lt;/a&gt;
-JavaScript functions – &lt;a href=&quot;http://www.w3schools.com/js/js_intro.asp&quot;&gt;http://www.w3schools.com/js/js_intro.asp&lt;/a&gt;
-JQuery – &lt;a href=&quot;http://jquery.com&quot;&gt;http://jquery.com&lt;/a&gt;
-JQuery 101 – &lt;a href=&quot;http://learn.jquery.com/javascript-101&quot;&gt;http://learn.jquery.com/javascript-101&lt;/a&gt;
-JQuery function parameters – &lt;a href=&quot;http://learn.jquery.com/javascript-101/functions&quot;&gt;http://learn.jquery.com/javascript-101/functions&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.com/tutorials/coding/learn-javascript-tags/</link>
-        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-javascript-tags/</guid>
-      </item>
-    
-      <item>
-        <title>How To Learn CSS Tags</title>
-        <description>&lt;h1 id=&quot;how-to-learn-css-tags&quot;&gt;How To Learn CSS Tags&lt;/h1&gt;
-&lt;hr /&gt;
-
-&lt;!-- Adblock checker --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-&lt;!--
-    var adblock = true;
-//--&gt;
-&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/advertisement.js&quot;&gt;&lt;/script&gt;
-
-&lt;!-- YouTube player test --&gt;
-&lt;div class=&quot;col-md-8 col-sm-12&quot;&gt;
-	&lt;div id=&quot;player&quot; class=&quot;video-container&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
-	&lt;h4&gt;Video Transcript&lt;/h4&gt;
-	&lt;div id=&quot;cc&quot; class=&quot;resizable&quot;&gt;&lt;/div&gt;
-	&lt;div id=&quot;container&quot;&gt;
-		&lt;div id=&quot;vididcontainer&quot; hidden=&quot;&quot;&gt;t1JmlTpJIfQ&lt;/div&gt;
-		&lt;div id=&quot;hiddentimeholder&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
-		&lt;div id=&quot;diffyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
-		&lt;div id=&quot;yoyo&quot; hidden=&quot;&quot;&gt;Hidden time holder&lt;/div&gt;
-		&lt;input type=&quot;text&quot; id=&quot;whatupyo&quot; hidden=&quot;&quot; /&gt;
-		&lt;input type=&quot;text&quot; id=&quot;dur_holder&quot; hidden=&quot;&quot; /&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;gewgleahds&quot;&gt;
-		&lt;script type=&quot;text/javascript&quot;&gt;
-		&lt;!--
-		if (adblock) {
-		document.write(&#39;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/TSRST62.jpg) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&#39;);
-		}
-		//--&gt;
-		&lt;/script&gt;
-		&lt;div class=&quot;hidden-xs hidden-sm&quot;&gt;
-			&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-			&lt;!-- 336 x 280 --&gt;
-			&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
-			&lt;script&gt;
-			(adsbygoogle = window.adsbygoogle || []).push({});
-			&lt;/script&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-
-	&lt;script type=&quot;text/javascript&quot;&gt;
-	&lt;!--
-	if (adblock) {
-	document.write(&#39;&lt;h4&gt;&lt;b&gt;AdBlock?&lt;/b&gt;&lt;/h4&gt;Please consider &lt;b&gt;donating&lt;/b&gt; to keep this content free.&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;J6YXKVNEUT3H2&quot;&gt;&lt;input type=&quot;image&quot; src=&quot;http://i.imgur.com/6mg3sIs.png&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot;&gt;&lt;/form&gt;&#39;);
-	}
-	//--&gt;
-	&lt;/script&gt;
-
-	&lt;div class=&quot;text-center&quot;&gt;
-		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-		&lt;!-- 320 x 100 --&gt;
-		&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
-		&lt;script&gt;
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		&lt;/script&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
-
-&lt;p&gt;This video explains how to use CSS for beginners to make your website look good. CSS gives a website a unique look and feel. This video series is to introduce website development for beginners who don’t know anything about making websites. This series assumes you don’t know anything about web development, but if I go beyond what you understand, ask me a question and I’ll try to get back to you as soon as possible!&lt;/p&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Episode 4 – Introduction To JavaScript – &lt;em&gt;link&lt;/em&gt;
-Episode 1 – Introduction To Web Development – /tutorials/coding/intro-to-web-development/
-Learn more CSS tags: &lt;a href=&quot;http://www.w3schools.com/cssref&quot;&gt;http://www.w3schools.com/cssref&lt;/a&gt;
-Use em for font-size: &lt;a href=&quot;http://css-tricks.com/why-ems&quot;&gt;http://css-tricks.com/why-ems&lt;/a&gt;
-Cheap web hosting: &lt;em&gt;http://mediaunmasked.com/fatcow&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 May 2014 06:00:00 -0400</pubDate>
-        <link>http://mediaunmasked.com/tutorials/coding/learn-css-tags/</link>
-        <guid isPermaLink="true">http://mediaunmasked.com/tutorials/coding/learn-css-tags/</guid>
       </item>
     
   </channel>

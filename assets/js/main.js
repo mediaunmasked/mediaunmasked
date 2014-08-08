@@ -51,6 +51,13 @@ $(function(){
 
 }); // End all
 
+
+// After page loads
+$(window).load(function() {
+	$("body").removeClass("preload");
+});
+
+
 // Get youtube video title
 // var video_id = $('#sitemap-vid').text();
 

@@ -4985,6 +4985,52 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.navbar-default {
+  background-color: #1e1e1e;
+  border-color: #313131; }
+  .navbar-default .navbar-brand {
+    color: white; }
+    .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+      color: white; }
+  .navbar-default .navbar-text {
+    color: white; }
+  .navbar-default .navbar-nav > li > a {
+    color: white; }
+    .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+      color: white; }
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: white;
+    background-color: #313131; }
+  .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: white;
+    background-color: #313131; }
+  .navbar-default .navbar-toggle {
+    border-color: #313131; }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+      background-color: #313131; }
+    .navbar-default .navbar-toggle .icon-bar {
+      background-color: white; }
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    border-color: white; }
+  .navbar-default .navbar-link {
+    color: white; }
+    .navbar-default .navbar-link:hover {
+      color: white; }
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: white; }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+      color: white; }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: white;
+    background-color: #313131; } }
+.navbar {
+  margin: 0;
+  border: 0;
+  border-radius: 0; }
+
 /****************************
 // Color variables
 ****************************/
@@ -4995,9 +5041,6 @@ button.close {
   background: rgba(0, 0, 0, 0.8);
   color: white;
   text-shadow: none; }
-
-* {
-  transition: 0.35s; }
 
 article {
   font-size: 1.4em; }
@@ -5213,6 +5256,12 @@ table {
   margin-bottom: 0px;
   padding-bottom: 0px; }
 
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important; }
+
 .thumbnail {
   margin: 0px 1% 0px 1%;
   width: 100%; }
@@ -5240,12 +5289,6 @@ table {
 .thumb-large {
   height: auto;
   max-width: 800px; }
-
-.ui-resizable {
-  width: 100% !important; }
-
-.ui-resizable-s {
-  min-height: 26px !important; }
 
 .overlaybtn {
   background: rgba(0, 0, 0, 0.8);
@@ -5279,6 +5322,12 @@ table {
   .postlist li {
     margin-bottom: 2.5%; }
 
+.rating {
+  margin: 0 auto;
+  max-width: 100%; }
+  .rating img {
+    max-height: 52px; }
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -5294,6 +5343,23 @@ table {
   width: 100%;
   height: 100%; }
 
+.audio-container {
+  position: relative;
+  height: 35px;
+  overflow: hidden;
+  width: 150px;
+  margin: 25px 0px 0px 0px;
+  left: 1.2%; }
+
+.audio-container iframe,
+.audio-container object,
+.audio-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
 .adsbygoogle {
   display: inline-block;
   width: 336px;
@@ -5303,10 +5369,15 @@ table {
   display: none;
   max-width: 336px;
   max-height: 280px; }
+  @media (min-width: 992px) and (max-width: 1199px) {
+    .gewgleahds {
+      margin-left: -25px;
+      width: 336px; } }
 
-.img-byvideo {
-  width: 336px;
-  height: 280px; }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .img-byvideo {
+    margin-left: -25px;
+    width: 336px; } }
 
 #container {
   height: 0px;
@@ -5314,7 +5385,11 @@ table {
   position: relative; }
 
 .show-hide {
-  cursor: pointer; }
+  cursor: pointer;
+  font-size: 0.8em;
+  text-shadow: none;
+  text-align: center;
+  position: relative; }
 
 .resizable {
   width: 100%;
@@ -5322,9 +5397,15 @@ table {
   overflow-y: scroll;
   overflow-x: hidden; }
 
+.transcript_title {
+  font-size: 1.2em; }
+
 .ui-resizable {
   width: 100% !important;
   transition: 0s !important; }
+  @media (min-width: 992px) and (max-width: 1200px) {
+    .ui-resizable {
+      width: 315px !important; } }
 
 .ui-resizable-s {
   cursor: row-resize;
