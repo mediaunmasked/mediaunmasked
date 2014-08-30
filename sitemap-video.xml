@@ -35,10 +35,50 @@
 		
 			
 				<url>
+	<loc>http://mediaunmasked.com/reviews/games/awesomenauts/</loc>
+		<video:video>
+			<video:title>Awesomenauts Review - Media Unmasked</video:title>
+			<video:description>Awesomenauts Assemble is a great introductory MOBA (action-RTS) side-scroller game that is easy to learn and fun to play. With 3v3 multiplayer, you can play strategically with two of your friends!</video:description>
+			<video:thumbnail_loc>http://img.youtube.com/vi/wGM4N6W87e4/maxresdefault.jpg</video:thumbnail_loc>
+			<video:player_loc allow_embed="yes" autoplay="ap=1">http://youtube.googleapis.com/v/wGM4N6W87e4</video:player_loc>
+			<video:duration></video:duration>
+			<video:publication_date>2014-08-21</video:publication_date>
+			
+				<video:tag>awesomenauts</video:tag>
+			
+				<video:tag>assemble</video:tag>
+			
+				<video:tag>awesome</video:tag>
+			
+				<video:tag>game</video:tag>
+			
+				<video:tag>review</video:tag>
+			
+				<video:tag>sidescroller</video:tag>
+			
+				<video:tag>tug-of-war</video:tag>
+			
+				<video:tag>arts</video:tag>
+			
+				<video:tag>moba</video:tag>
+			
+				<video:tag>cheap</video:tag>
+			
+			<video:category>reviews</video:category>
+			<video:uploader>http://mediaunmasked.com/about</video:uploader>
+			<video:family_friendly>yes</video:family_friendly>
+		</video:video>
+</url>
+			
+		
+	
+		
+			
+				<url>
 	<loc>http://mediaunmasked.com/reviews/games/dont-starve/</loc>
 		<video:video>
 			<video:title>Don't Starve Review - Media Unmasked</video:title>
-			<video:description></video:description>
+			<video:description>Don't Starve is a fun survival game that you can play with friends. It features crafting, gathering, and unique monsters to be slain. See what else it has to offer!</video:description>
 			<video:thumbnail_loc>http://img.youtube.com/vi/TQxqvAduIG8/maxresdefault.jpg</video:thumbnail_loc>
 			<video:player_loc allow_embed="yes" autoplay="ap=1">http://youtube.googleapis.com/v/TQxqvAduIG8</video:player_loc>
 			<video:duration></video:duration>
