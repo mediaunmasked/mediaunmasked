@@ -10,6 +10,7 @@
         <title>How to Cartoon Yourself in Photoshop</title>
         <description>&lt;h1 id=&quot;how-to-cartoon-yourself-in-photoshop&quot;&gt;How to Cartoon Yourself in Photoshop&lt;/h1&gt;
 &lt;hr /&gt;
+
 &lt;!-- Adblock checker --&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
 &lt;!--
@@ -77,6 +78,7 @@
 
 &lt;/div&gt;
 &lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
 &lt;p&gt;When I was a young kid, I loved drawing and was decent (for my age) at it. Now that I’m older, there’s no keeping up to the pros that draw masterpiece cartoons like it’s nothing, so I installed Photoshop. With Photoshop, you can make any picture look like it was hand drawn to add a cartoon effect to any image.&lt;/p&gt;
 
 &lt;h2 id=&quot;cartoon-yourself-step-by-step-instructions&quot;&gt;Cartoon Yourself Step-By-Step Instructions&lt;/h2&gt;
@@ -452,14 +454,14 @@
 		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/jlWgtMgukZ0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+&lt;div class=&quot;vid-n-ad col-md-4 col-sm-12&quot;&gt;
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
 			document.write(&#39;&lt;div class=&quot;img-byvideo&quot;&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/vIlmxAI.png) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 		}
 		else {
-			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
+			document.write(&#39;&lt;div class=&quot;transcript_title&quot;&gt;Sponsors&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -483,7 +485,7 @@
 	&lt;!-- Bitcoin donate button --&gt;
 	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;br /&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
@@ -504,6 +506,31 @@
         <title>Best Ways To Earn Money By Searching The Internet With Swagbucks</title>
         <description>&lt;h1 id=&quot;best-ways-to-earn-money-by-searching-googlebing&quot;&gt;Best Ways To Earn Money By Searching Google/Bing&lt;/h1&gt;
 &lt;hr /&gt;
+
+&lt;div class=&quot;pull-right hidden-md hidden-sm hidden-xs&quot;&gt;
+	&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+	&lt;!-- 300 x 600 --&gt;
+	&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:300px;height:600px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;6217893380&quot;&gt;&lt;/ins&gt;
+	&lt;script&gt;
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	&lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&quot;pull-right hidden-lg hidden-xs&quot;&gt;
+	&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+	&lt;!-- 336 x 280 --&gt;
+	&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:336px;height:280px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;7432730189&quot;&gt;&lt;/ins&gt;
+	&lt;script&gt;
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	&lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&quot;text-center hidden-lg hidden-md hidden-sm&quot;&gt;
+	&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+	&lt;!-- 320 x 100 --&gt;
+	&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:320px;height:100px&quot; data-ad-client=&quot;ca-pub-1335786241529939&quot; data-ad-slot=&quot;1709666185&quot;&gt;&lt;/ins&gt;
+	&lt;script&gt;
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	&lt;/script&gt;
+&lt;/div&gt;
 
 &lt;p&gt;There are many different ways you can use &lt;a href=&quot;http://swagbucks.com/refer/MediaUnmasked&quot;&gt;SwagBucks&lt;/a&gt; to earn points that can be redeemed for money by doing things online. There are other programs similar to SwagBucks that encourage people to use their product, such as Microsoft’s search engine, Bing. While there are dozens of online rewarding sites, I think SwagBucks is, currently, the best, in terms of usability and rewards. There are many different ways to earn SwagBucks, including the following:&lt;/p&gt;
 
@@ -588,7 +615,8 @@
         <title>User Experience - Feedback, Recovery, Simplicity, Goal Oriented</title>
         <description>&lt;h1 id=&quot;user-experience---feedback-recovery-simplicity-goal-oriented&quot;&gt;User Experience - Feedback, Recovery, Simplicity, Goal Oriented&lt;/h1&gt;
 &lt;hr /&gt;
-&lt;div class=&quot;bg-warning&quot;&gt;This post is a continuation to part 1 on user experience. You can check out that post first by clicking &lt;a href=&quot;http://mediaunmasked.com/tutorials/misctut/user-experience-part-1&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
+
+&lt;div class=&quot;bg-warning&quot;&gt;This post is a continuation to part 1 on user experience. You can check out that post first by clicking &lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-1&quot;&gt;here&lt;/a&gt;.&lt;/div&gt;
 
 &lt;!-- Adblock checker --&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
@@ -605,14 +633,14 @@
 		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/yIedljapuz0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+&lt;div class=&quot;vid-n-ad col-md-4 col-sm-12&quot;&gt;
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
 			document.write(&#39;&lt;div class=&quot;img-byvideo&quot;&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 		}
 		else {
-			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
+			document.write(&#39;&lt;div class=&quot;transcript_title&quot;&gt;Sponsors&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -636,7 +664,7 @@
 	&lt;!-- Bitcoin donate button --&gt;
 	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;br /&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
@@ -780,14 +808,14 @@ If this article helped, consider sharing it to let other designers and developer
 		&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/xYiiD-p2q80&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;col-md-4 col-sm-12&quot;&gt;
+&lt;div class=&quot;vid-n-ad col-md-4 col-sm-12&quot;&gt;
 		&lt;script type=&quot;text/javascript&quot;&gt;
 		&lt;!--
 		if (adblock) {
 			document.write(&#39;&lt;div class=&quot;img-byvideo&quot;&gt;&lt;div class=&quot;hidden-xs hidden-sm&quot; style=&quot;background: url(http://i.imgur.com/porMGjN.gif) center center; background-size: cover; width: 336px; height: 280px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&#39;);
 		}
 		else {
-			document.write(&#39;&lt;h4&gt;Sponsors&lt;/h4&gt;&#39;);
+			document.write(&#39;&lt;div class=&quot;transcript_title&quot;&gt;Sponsors&lt;/div&gt;&#39;);
 		}
 		//--&gt;
 		&lt;/script&gt;
@@ -811,7 +839,7 @@ If this article helped, consider sharing it to let other designers and developer
 	&lt;!-- Bitcoin donate button --&gt;
 	&lt;script src=&quot;https://coinbase.com/assets/button.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
-	&lt;div class=&quot;text-center&quot;&gt;
+	&lt;div class=&quot;text-center hidden-md&quot;&gt;
 		&lt;br /&gt;
 		&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
 		&lt;!-- 320 x 100 --&gt;
@@ -1015,7 +1043,7 @@ A few great examples of this can be found when you’re asked to save when you c
 
 &lt;p&gt;This post described the importance of consistency, familiarity, recognition, and error prevention have on a user’s experience; Be it on the web, software, or product, user experience is crucial to the health and growth of the community around the product. There are many different subcategories in the spectrum of user experience that are also important to pay attention to, but the four listed above are especially important. There are still four more usability standards that should be addressed (per the compiled table above). To read the rest, click the link below!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://mediaunmasked.com/tutorials/misctut/user-experience-part-2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LhAcM8d.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mediaunmasked.com/tutorials/misc/user-experience-part-2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/LhAcM8d.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jun 2014 06:00:00 -0400</pubDate>
         <link>http://mediaunmasked.com/tutorials/misc/user-experience-part-1/</link>

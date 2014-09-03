@@ -5328,6 +5328,11 @@ table {
   .rating img {
     max-height: 52px; }
 
+@media (min-width: 992px) and (max-width: 1199px) {
+  .vid-n-ad {
+    position: relative;
+    left: -26px; } }
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
