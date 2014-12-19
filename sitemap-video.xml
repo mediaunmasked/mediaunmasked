@@ -5,6 +5,40 @@
 		
 			
 				<url>
+	<loc>http://mediaunmasked.com/reviews/computer/inateck-sp3-sleeve/</loc>
+		<video:video>
+			<video:title>Inateck Sleeve Review - Media Unmasked</video:title>
+			<video:description>This video is a review of the Inateck Sleeve for the Surface Pro 3 - it's a soft option to protect your SP3, but it's not the sexiest sleeve.</video:description>
+			<video:thumbnail_loc>http://img.youtube.com/vi/QgCCu7cAIYw/maxresdefault.jpg</video:thumbnail_loc>
+			<video:player_loc allow_embed="yes" autoplay="ap=1">http://youtube.googleapis.com/v/QgCCu7cAIYw</video:player_loc>
+			<video:duration>62</video:duration>
+			<video:publication_date>2014-12-19</video:publication_date>
+			
+				<video:tag>surface</video:tag>
+			
+				<video:tag>microsoft</video:tag>
+			
+				<video:tag>surface pro 3</video:tag>
+			
+				<video:tag>tablet</video:tag>
+			
+				<video:tag>sleeve</video:tag>
+			
+				<video:tag>review</video:tag>
+			
+				<video:tag>case</video:tag>
+			
+			<video:category>reviews</video:category>
+			<video:uploader>http://mediaunmasked.com/about</video:uploader>
+			<video:family_friendly>yes</video:family_friendly>
+		</video:video>
+</url>
+			
+		
+	
+		
+			
+				<url>
 	<loc>http://mediaunmasked.com/tutorials/photoshop/how-to-cartoon-yourself-in-photoshop/</loc>
 		<video:video>
 			<video:title>How to Cartoon Yourself in Photoshop - Media Unmasked</video:title>
