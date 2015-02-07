@@ -1,0 +1,17 @@
+<url>
+	<loc>{{ site.url }}{{ site.baseurl }}{{ include.entry.url }}</loc>
+		<video:video>
+			<video:title>{{ include.entry.headline }} - {{ site.title }}</video:title>
+			<video:description>{{ include.entry.vid-excerpt }}</video:description>
+			<video:thumbnail_loc>http://img.youtube.com/vi/{{ include.entry.vid }}/maxresdefault.jpg</video:thumbnail_loc>
+			<video:player_loc allow_embed="yes" autoplay="ap=1">http://youtube.googleapis.com/v/{{ include.entry.vid }}</video:player_loc>
+			<video:duration>{{ include.entry.vid-duration }}</video:duration>
+			<video:publication_date>{{ include.entry.date | date: "%Y-%m-%d" }}</video:publication_date>
+			{% for tag in include.entry.tags %}
+				<video:tag>{{ tag }}</video:tag>
+			{% endfor %}
+			<video:category>{{ include.entry.activenav }}</video:category>
+			<video:uploader>{{ site.url }}{{ site.baseurl }}/about</video:uploader>
+			<video:family_friendly>yes</video:family_friendly>
+		</video:video>
+</url>

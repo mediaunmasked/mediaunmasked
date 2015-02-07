@@ -1,0 +1,10 @@
+---
+---
+# www.robotstxt.org/
+
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap-video.xml
+
+# Allow crawling of all content
+User-agent: *
+Disallow:

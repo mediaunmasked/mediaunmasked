@@ -1,0 +1,22 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+	{% for post in site.posts %}
+		{% if post.layout %}
+			{% if post.vid %}
+				{% include sitemap-video-entry.xml entry=post %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+
+	{% for page in site.pages %}
+		{% if page.layout %}
+			{% if page.vid %}
+				{% include sitemap-video-entry.xml entry=page %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+
+</urlset>

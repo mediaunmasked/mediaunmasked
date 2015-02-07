@@ -1,0 +1,10 @@
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="shortcut icon" type="image/png" href="http://i.imgur.com/eHdhudX.png"/>
+	<link rel="author" href="http://google.com/+mediaunmasked"/>
+	<link rel='stylesheet' type='text/css' href='{{ site.url }}{{ site.baseurl }}/assets/css/style.css' />
+</head>

@@ -1,0 +1,16 @@
+<div itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+	<span itemprop="author" hidden="hidden">Media Unmasked</span>
+	<span itemprop="datePublished" content="{% if page.date %}{{ page.date | date: '%Y-%m-%d' }}{% endif %}" hidden="hidden">
+		{% if page.date %}
+			{{ page.date | date: "%B %-d, %Y" }}
+		{% endif %}
+	</span>
+	<div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating" hidden="hidden">
+		<span itemprop="ratingValue" hidden="hidden">
+			{% if page.rating %}
+				{{ page.rating }}
+			{% endif %}
+		</span>
+		<span itemprop="bestRating" hidden="hidden">10</span>
+	</div>
+</div>
