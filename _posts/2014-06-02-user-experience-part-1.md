@@ -201,5 +201,5 @@ A few great examples of this can be found when you're asked to save when you clo
 
 This post described the importance of consistency, familiarity, recognition, and error prevention have on a user's experience; Be it on the web, software, or product, user experience is crucial to the health and growth of the community around the product. There are many different subcategories in the spectrum of user experience that are also important to pay attention to, but the four listed above are especially important. There are still four more usability standards that should be addressed (per the compiled table above). To read the rest, click the link below!
 
-<a href="{{ site.url }}{{ site.baseurl }}/tutorials/misc/user-experience-part-2"><h3>Continue reading part 2</h3></a>
+<h3><a href="{{ site.url }}{{ site.baseurl }}/tutorials/misc/user-experience-part-2">Continue reading part 2</a></h3>
 <!-- ![](http://i.imgur.com/LhAcM8d.png) -->
