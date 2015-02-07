@@ -1,7 +1,9 @@
 title: Media Unmasked
 permalink: /:categories/:title/
-url: "http://mediaunmasked.com"
+url: "http://localhost:4000"
 baseurl: ""
 timezone: America/New_York
 gems:
 - jekyll-redirect-from
+sass:
+sass_dir: _sass
