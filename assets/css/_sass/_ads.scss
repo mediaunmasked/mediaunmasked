@@ -1,0 +1,42 @@
+// Adverts
+.vid-n-ad {
+	@media (min-width: 992px) and (max-width: 1199px) {
+		position: relative;
+		left: -26px;
+	}
+}
+
+.adsbygoogle {
+	display: inline-block;
+	width:336px;
+	height:280px
+}
+
+.gewgleahds {
+	display: none;
+	max-width: 336px;
+	max-height: 280px;
+	@media (min-width: 992px) and (max-width: 1199px) {
+		margin-left: -25px;
+		width: 336px;
+	}
+}
+
+.img-byvideo {
+	@media (min-width: 992px) and (max-width: 1199px) {
+		//margin-left: -25px;
+		width: 336px;
+	}
+}
+
+.fsad-left {
+	@media (min-width: 762px){
+		margin-left: 10%;
+	}
+}
+
+.fsad-right {
+	@media (min-width: 762px){
+		margin-right: 10%;
+	}
+}

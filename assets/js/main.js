@@ -1,4 +1,23 @@
 $(function(){
+	// Clear search bar
+	$("#search").keypress(function(){
+		$("#results").removeClass('flyout');
+		$("#results").addClass('flyin');
+	});
+	$("#search").click(function(){
+		$("#search").val('');
+		$("#results").removeClass('flyin');
+		$("#results").addClass('flyout');
+	});
+	$("body").click(function(){
+		if (!$(event.target).is("#results, #results li")) {
+			event.stopPropagation();
+			$("#search").val('');
+			$("#results").removeClass('flyin');
+			$("#results").addClass('flyout');
+		}
+	});
+
 	// Change active nav color
 	var activenav = $('#activenav').text();
 	$('.active').removeClass('active');

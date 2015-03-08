@@ -1,0 +1,27 @@
+// Add image to external links
+a[href^="http://"].amazon::after, 
+a[href^="https://"].amazon::after {
+	background: url("http://i.imgur.com/dhFyrq4.png") center right no-repeat;
+	content: "";
+	margin: -8px;
+	padding: 8px;
+	position: relative;
+	bottom: 10px;
+	left: 3px;
+}
+
+article a[href^="http://"]::after, 
+article a[href^="https://"]::after {
+	background: url("http://i.imgur.com/C5E4Lem.png") center right no-repeat;
+	content: "";
+	margin: -8px;
+	padding: 8px;
+	position: relative;
+	bottom: 10px;
+	left: 3px;
+}
+
+article a[href^="http://mediaunmasked.com"]::after,
+article a[href^="https://mediaunmasked.com"]::after {
+	background: none;
+}

@@ -21,15 +21,35 @@
 				<li><a href="{{ site.url }}{{ site.baseurl }}/gear">Gear</a></li>
 				<li><a href="{{ site.url }}{{ site.baseurl }}/contact">Contact</a></li>
 				</ul>
+				<div class="pull-right"><input type="text" placeholder="Search" id="search"></div>
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
 	</nav>
+	<div class="results-container">
+		<ul id="results"></ul>
+	</div>
 	<div style="background: no-repeat center {{ page.bgsize }} url({{ page.featuredimage }}); background-size: cover; height: 350px;">
 		<div class="headline">{{ page.headline }}</div>
 	</div>
 </header>
 
 <article class="container">
-	{% if page.path contains '_posts' %}
-		<span class="pull-right date text-right">{{ page.date | date: "%B %-d, %Y" }}</span>
-	{% endif %}
+<div class="top-trim">
+{% if page.path contains '_posts' %}
+<span class="pull-right date text-right">{{ page.date | date: "%B %-d, %Y" }}</span><div class="pull-right">{% include share-small.html %}</div>
+{% endif %}
+
+{% assign crumbs = page.url | split: '/' %}
+<ul class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    {% for crumb in crumbs offset: 1 %}
+        {% if forloop.last %}
+            <li class="active">{{ crumb | replace:'-',' ' }}</li>
+        {% else %}
+            <li><a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+</div>
+
+<div class="wrapper">

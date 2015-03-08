@@ -1,0 +1,47 @@
+#mc_embed_signup {
+	display: block;
+	margin: 0px 16px; padding: 0;
+	@media only screen and (min-width: 1200px) {
+		display: inline-block;
+		padding: 2px;
+	}
+}
+
+.emailform {
+	width: 100%;
+	@media only screen and (min-width: 1200px) {
+		width: 340px;
+	}
+}
+
+.email {
+	margin: 1%; padding: 1%;
+	float: left;
+	width: 48%;
+	border-radius: 0;
+	height: 46px;
+	@media only screen and (min-width: 1200px) {
+		width: 58%;
+	}
+	&:focus {
+		outline: none !important;
+	}
+}
+
+.form-group {
+	margin: 0;
+}
+
+.subscribe {
+	margin: 1%; padding: 1%;
+	float: left;
+	border-radius: 0;
+	width: 48%;
+	height: 46px;
+	border: none;
+	background: #333;
+	color: #fff;
+	@media only screen and (min-width: 1200px) {
+		width: 38%;
+	}
+}

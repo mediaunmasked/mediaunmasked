@@ -6,4 +6,5 @@ timezone: America/New_York
 gems:
 - jekyll-redirect-from
 sass:
-sass_dir: _sass
+  sass_dir: assets/css/_sass
+social_username: mediaunmasked

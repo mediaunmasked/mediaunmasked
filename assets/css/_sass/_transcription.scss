@@ -1,0 +1,52 @@
+// Video transcription
+#container {
+	height:0px;
+	width: 100%;
+	position: relative;
+}
+
+.show-hide {
+	cursor: pointer;
+	font-size: 0.8em;
+	text-shadow: none;
+	text-align: center;
+	position:relative;
+}
+
+.resizable {
+	width:100%;
+	height:270px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.transcript_title {
+	font-size: 1.2em;
+}
+
+.ui-resizable {
+	width: 100% !important;
+	transition: 0s !important;
+	@media (min-width: 992px) and (max-width: 1200px) {
+		width: 315px !important;
+	}
+}
+
+.ui-resizable-s {
+	cursor: row-resize;
+	min-height: 26px !important;
+}
+
+span {
+-webkit-transition: all 0.8s ease;
+-moz-transition: all 0.8s ease;
+-o-transition: all 0.8s ease;
+transition: all 0.8s ease;
+}
+.white {
+	background-color: white;
+}
+.yellow {
+	background-color: yellow;
+	font-size:1.03em;
+}
