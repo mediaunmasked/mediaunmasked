@@ -3,7 +3,7 @@
 SimpleJekyllSearch.init({
 	searchInput: document.getElementById('search'),
 	resultsContainer: document.getElementById('results'),
-	dataSource: 'http://localhost:4000/assets/js/search.json',
+	dataSource: 'http://mediaunmasked.com/assets/js/search.json',
 	searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
 	noResultsText: '<li>No results found</li>',
 	limit: 10,
