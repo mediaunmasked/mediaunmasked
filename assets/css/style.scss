@@ -7,7 +7,7 @@
 @import "external-links";
 @import "nav-colorization";
 @import "responsive-media";
-@import "isotope";
+//@import "isotope";
 @import "transcription";
 @import "ads";
 @import "share";
@@ -329,5 +329,18 @@ table {
 	max-width: 100%;
 	img {
 		max-height: 52px;
+	}
+}
+
+/* Search */
+@media only screen and (max-width: $grid-float-breakpoint) {
+	#search {
+		margin: 0px 0px 6px 0px;
+		width: 100%;
+		font-size: 2em;
+		text-align: center;
+	}
+	div.search {
+		float: none !important;
 	}
 }

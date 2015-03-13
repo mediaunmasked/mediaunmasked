@@ -10,7 +10,7 @@ $(function(){
 		$("#results").addClass('flyout');
 	});
 	$("body").click(function(){
-		if (!$(event.target).is("#results, #results li")) {
+		if (!$(event.target).is("#results, #results li, button, .icon-bar, .navbar-toggle")) {
 			event.stopPropagation();
 			$("#search").val('');
 			$("#results").removeClass('flyin');
@@ -68,7 +68,7 @@ $(function(){
 		}
 	});
 
-}); // End all
+}); // End on page load
 
 
 // After page loads
