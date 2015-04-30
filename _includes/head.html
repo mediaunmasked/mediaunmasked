@@ -6,5 +6,16 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="shortcut icon" type="image/png" href="http://i.imgur.com/eHdhudX.png"/>
 	<link rel="author" href="http://google.com/+mediaunmasked"/>
+	<meta name="author" content="Media Unmasked">
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://mediaunmasked.com" />
+	<meta property="og:title" content="Media Unmasked" />
+	{% if page.description %}
+		<meta name="description" content="{{ site.description }}">
+		<meta property="og:description" content="{{ page.description }}" />
+	{% endif %}
+	{% if page.thumb %}
+		<meta property="og:image" content="{{ page.thumb }}" />
+	{% endif %}
 	<link rel='stylesheet' type='text/css' href='{{ site.url }}{{ site.baseurl }}/assets/css/style.css' />
 </head>
