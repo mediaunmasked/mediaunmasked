@@ -11,8 +11,8 @@
 	<meta property="og:url" content="http://mediaunmasked.com" />
 	<meta property="og:title" content="Media Unmasked" />
 	{% if page.description %}
-		<meta name="description" content="{{ site.description }}">
-		<meta property="og:description" content="{{ page.description }}" />
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+		<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 	{% endif %}
 	{% if page.thumb %}
 		<meta property="og:image" content="{{ page.thumb }}" />

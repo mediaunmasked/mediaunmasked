@@ -8,3 +8,9 @@ gems:
 sass:
   sass_dir: assets/css/_sass
 social_username: mediaunmasked
+exclude:
+- node_modules
+- .sass-cache
+- .gitignore
+- CNAME
+- gulpfile.js
