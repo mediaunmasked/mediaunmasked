@@ -1,17 +1,15 @@
----
----
-@import "bootstrap";
-@import "bootstrapnavcolors";
-@import "variables";
-@import "mixins";
-@import "external-links";
-@import "nav-colorization";
-@import "responsive-media";
-//@import "isotope";
-@import "transcription";
-@import "ads";
-@import "share";
-@import "email";
+@import "_sass/bootstrap";
+@import "_sass/bootstrapnavcolors";
+@import "_sass/variables";
+@import "_sass/mixins";
+@import "_sass/external-links";
+@import "_sass/nav-colorization";
+@import "_sass/responsive-media";
+//@import "_sass/isotope";
+@import "_sass/transcription";
+@import "_sass/ads";
+@import "_sass/share";
+@import "_sass/email";
 
 ::selection {
 	background: $lowlight;

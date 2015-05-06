@@ -1,6 +1,6 @@
 title: Media Unmasked
 permalink: /:categories/:title/
-url: "http://mediaunmasked.com"
+url: "http://192.168.1.10:3000"
 baseurl: ""
 timezone: America/New_York
 gems:
@@ -8,9 +8,4 @@ gems:
 sass:
   sass_dir: assets/css/_sass
 social_username: mediaunmasked
-exclude:
-- node_modules
-- .sass-cache
-- .gitignore
-- CNAME
-- gulpfile.js
+exclude: ['node_modules', '.sass-cache', '.gitignore', 'CNAME', 'gulpfile.js', '*.scss']
