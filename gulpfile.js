@@ -50,6 +50,7 @@ gulp.task('styles', function() {
 		.pipe(minifycss({keepBreaks: false, keepSpecialComments:true}))
 		.pipe(rename('style.css'))
 		.pipe(gulp.dest('_site/assets/css'))
+		.pipe(gulp.dest('assets/css'))
 		.pipe(browserSync.reload({stream: true}))
 });
 
@@ -67,6 +68,7 @@ gulp.task('scripts', function () {
 		.pipe(rename({suffix: '.min'}))
 		.pipe(uglify())
 		.pipe(gulp.dest('_site/assets/js'))
+		.pipe(gulp.dest('assets/js'))
 		//.pipe(browserSync.reload())
 });
 
