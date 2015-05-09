@@ -38,7 +38,7 @@ gulp.task('browser-sync', ['jekyll-build'], function() {
 		server: {
 			baseDir: '_site'
 		},
-		host: 'localhost'
+		host: 'http://192.168.1.10/'
 	});
 	gulp.start('styles', 'scripts');
 });
