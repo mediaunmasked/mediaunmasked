@@ -61,7 +61,7 @@ gulp.task('styles', function() {
 // });
 
 gulp.task('scripts', function () {
-	gulp.src(['assets/js/jquery.min.js', 'assets/js/jquery-ui.min.js', 'assets/js/bootstrap.min.js', 'assets/js/*.js', '!assets/js/advertisement.js'])
+	gulp.src(['assets/js/jquery.min.js', 'assets/js/jquery-ui.min.js', 'assets/js/bootstrap.min.js', 'assets/js/*.js', '!assets/js/advertisement.js', '!assets/js/site.min.js', '!assets/js/site.js'])
 		.pipe(cat('site.js'))
 		.pipe(gulp.dest('_site/assets/js'))
 		.pipe(rename({suffix: '.min'}))
