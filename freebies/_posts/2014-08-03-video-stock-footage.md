@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 FREE Video Stock Footage Sites
+title: List of Video Stock Footage Sites
 
 headline: Free Stock Footage
 featuredimage: http://i.imgur.com/jSjrOaN.png
@@ -11,7 +11,7 @@ date: 2014-08-03 10:00:00
 activenav: freebies
 categories: ['freebies']
 ---
-#6 FREE Video Stock Footage Sites
+#A List of Video Stock Footage Sites
 ---
 
 {% include ad-post.html %}
@@ -91,3 +91,63 @@ categories: ['freebies']
 	<em>Type:</em> B-roll, stock footage
 	<a href="http://www.videvo.net/"><img class="thumbnail thumb-med" src="http://i.imgur.com/DzEJygk.jpg" alt="Videvo"></a>
 </div>
+
+<div class="col-md-6">
+	<h2>Videoblocks</h2>
+	<a href="http://www.videoblocks.com/">Videoblocks</a> is a membership site (not free) that offers what could otherwise be considered expensive footage for a subscription fee.
+	<br><br>
+	<em>Type:</em> B-roll, stock footage
+	<a href="http://www.videvo.net/"><img class="thumbnail thumb-med" src="http://i.imgur.com/arSTi9o.jpg" alt="Videoblocks"></a>
+</div>
+<div class="clearfix"></div>
+
+<div class="col-md-6">
+	<h2>Mazwai</h2>
+	<a href="http://mazwai.com/">Mazwai</a> uses a nice and simple interface to show their free videos.
+	<br><br>
+	<em>Type:</em> B-roll, stock footage
+	<a href="http://mazwai.com/"><img class="thumbnail thumb-med" src="http://i.imgur.com/B259cAO.jpg" alt="Mazwai"></a>
+</div>
+
+<div class="col-md-6">
+	<h2>Distill</h2>
+	Distill will send you <a href="http://www.wedistill.io/">10 free HD videos every 10 days</a> for commercial or personal use for free.
+	<br><br>
+	<em>Type:</em> B-roll, stock footage
+	<a href="http://www.videvo.net/"><img class="thumbnail thumb-med" src="http://i.imgur.com/WBb4Lzt.jpg" alt="Distill"></a>
+</div>
+<div class="clearfix"></div>
+
+<div class="col-md-6">
+	<h2>BRoll</h2>
+	<a href="http://broll.io/">BRoll</a> has exactly what the name implied: b-roll!
+	<br><br>
+	<em>Type:</em> B-roll, stock footage
+	<a href="http://broll.io/"><img class="thumbnail thumb-med" src="http://i.imgur.com/zk7UKZq.jpg" alt="BRoll"></a>
+</div>
+
+<div class="col-md-6">
+	<h2>Life of Vids</h2>
+	This site has some <a href="http://www.lifeofvids.com/">videos</a> that don't have any copyright restrictions, are uploaded weekly, and can be downloaded for free.
+	<br><br>
+	<em>Type:</em> City, sky-line, landscape
+	<a href="http://www.lifeofvids.com/"><img class="thumbnail thumb-med" src="http://i.imgur.com/po94KXw.jpg" alt="Life of Vids"></a>
+</div>
+<div class="clearfix"></div>
+
+<div class="col-md-6">
+	<h2>Clip Canvas</h2>
+	S'more (free) stock footage can be found on <a href="http://www.clipcanvas.com/free-footage/">Clip Canvas</a>.
+	<br><br>
+	<em>Type:</em> B-roll, stock footage
+	<a href="http://www.clipcanvas.com/free-footage/"><img class="thumbnail thumb-med" src="http://i.imgur.com/lisSxgR.jpg" alt="Clip Canvas"></a>
+</div>
+
+<div class="col-md-6">
+	<h2>Beachfront B-Roll</h2>
+	Although the site isn't exactly ideal (it uses Google Blogger), it gets the job done and offers a great service of <a href="http://www.beachfrontbroll.com/">free stock footage clips</a>.
+	<br><br>
+	<em>Type:</em> Nature, animals, b-roll
+	<a href="http://www.beachfrontbroll.com//"><img class="thumbnail thumb-med" src="http://i.imgur.com/J7ZXkvg.jpg" alt="Beachfront B-Roll"></a>
+</div>
+<div class="clearfix"></div>

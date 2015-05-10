@@ -6,7 +6,7 @@ minifycss = require('gulp-minify-css'),
 sass = require('gulp-sass'),
 
 // JS BUILD
-concat = require('gulp-concat'),
+cat = require('gulp-concat'),
 rename = require('gulp-rename'),
 uglify = require('gulp-uglify'),
 
@@ -37,10 +37,9 @@ gulp.task('browser-sync', ['jekyll-build'], function() {
 	browserSync.init(null, {
 		server: {
 			baseDir: '_site'
-		},
-		host: 'http://192.168.1.10/'
+		}
 	});
-	gulp.start('styles', 'scripts');
+	gulp.start('styles', 'scripts', 'watch');
 });
 
 gulp.task('styles', function() {
@@ -62,25 +61,28 @@ gulp.task('styles', function() {
 // });
 
 gulp.task('scripts', function () {
-	gulp.src(['assets/js/*.j     s', '!assets/js/advertisement.js'])
-		.pipe(concat('site.js'))
+	gulp.src(['assets/js/jquery.min.js', 'assets/js/jquery-ui.min.js', 'assets/js/bootstrap.min.js', 'assets/js/*.js', '!assets/js/advertisement.js'])
+		.pipe(cat('site.js'))
 		.pipe(gulp.dest('_site/assets/js'))
 		.pipe(rename({suffix: '.min'}))
 		.pipe(uglify())
 		.pipe(gulp.dest('_site/assets/js'))
-		.pipe(gulp.dest('assets/js'))
 		//.pipe(browserSync.reload())
 });
 
 gulp.task('watch', function() {
 	gulp.watch([
 		'index.html',
-		'*.md'
+		'*.md',
+		'**/*.html',
+		'**/*.md',
+		'!_site/**/*.html',
+		'!_site/**/*.md'
 	], ['jekyll-rebuild']);
 	gulp.watch('assets/**/*.js', ['scripts']);
 	gulp.watch('assets/**/*.scss', ['styles']);
 })
 
 gulp.task('default', function (event) {
-	gulp.start('browser-sync', 'watch');
+	gulp.start('browser-sync');
 });
