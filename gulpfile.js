@@ -67,6 +67,7 @@ gulp.task('scripts', function () {
 		.pipe(rename({suffix: '.min'}))
 		.pipe(uglify())
 		.pipe(gulp.dest('_site/assets/js'))
+		.pipe(gulp.dest('assets/js'))
 		//.pipe(browserSync.reload())
 });
 
