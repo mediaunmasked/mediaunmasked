@@ -7,7 +7,7 @@ headline: FPV With Phone
 featuredimage: http://i.imgur.com/nrGgCUM.jpg
 bgsize: 50%
 thumb: http://i.imgur.com/mfclBWb.jpg
-vid: HnsRgqz16ZY
+vid-n: HnsRgqz16ZY
 vid-excerpt: Save $300 by using your phone and Google Cardboard to monitor your FPV flights.
 vid-duration: 25
 
