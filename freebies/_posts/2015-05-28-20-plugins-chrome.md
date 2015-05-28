@@ -4,9 +4,9 @@ title: 20 Plugins For Chrome You Need
 description: Extend Google Chrome with helpful plugins to stay productive and just help with your everyday browsing. Here are 20 plugins you need to get!
 
 headline: 20 Chrome Plugins
-featuredimage: 
+featuredimage: http://i.imgur.com/SBMHfsm.jpg
 bgsize: 50%
-thumb: 
+thumb: http://i.imgur.com/jf8hHCO.jpg
 
 date: 2015-05-28 10:00:00
 activenav: freebies
