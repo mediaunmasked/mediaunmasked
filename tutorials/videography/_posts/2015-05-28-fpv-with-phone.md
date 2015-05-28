@@ -65,7 +65,7 @@ Finally, connect the battery to the transmitter and the transmitter to the video
 
 <img src="http://i.imgur.com/pVkuLDT.jpg" alt="FPV Receiver and USB converter modules">
 
-<img src="http://i.imgur.com/2SvN1os.gifv" alt="Attaching LaserBGC receiver module to USB module">
+<iframe class="imgur-embed" width="100%" height="360" frameborder="0" src="http://i.imgur.com/2SvN1os.gifv#embed"></iframe>
 
 From here, just plug the USB module into your phone with the OTG cable and open the CameraFi (or similar) app.
 
@@ -83,6 +83,6 @@ Luckily, Google implemented some free plans so anyone can turn their phone into 
 
 Nothing particularly new or revolutionary, but by using your phone and cardboard, you're saving $300+ that would have been spent on a dedicated set of video goggles. I'm pretty sure the latency is comparable; it is certainly responsive enough to be able to fly with. But your phone can also call, text, game (virtual reality), etc.
 
-<img src="http://i.imgur.com/oXilp86.gifv" alt="LaserBGC latency">
+<iframe class="imgur-embed" width="100%" height="360" frameborder="0" src="http://i.imgur.com/oXilp86.gifv#embed"></iframe>
 
-{% include vid.html %}
+{% include vid-n.html %}
