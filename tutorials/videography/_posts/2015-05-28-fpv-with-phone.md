@@ -32,6 +32,8 @@ While getting a bird's eye view of your house is fun, I began to further explore
 
 Today, technology is rampant and the amount of different phones and drones is staggering. Phones range from $20 to $700+ and all offer similar*ish* features. The same can be said about RC multirotor helicopters, but they seem to be dropping in price much faster than phones. Regardless, to get a decent setup, you can easily spend upwards of $1000+ to get in the sky. Or not. Since phones are basically a tiny display, why not use it to fly a quadcopter? Here's a list of items, software, etc. I'll be using to get FPV on a phone.
 
+{% include ad-post.html %}
+
 * Android phone with <a href="https://play.google.com/store/apps/details?id=com.homesoft.otgtroubshooter&hl=en">OTG support</a> ($0)
 * <a href="http://www.hobbyking.com/hobbyking/store/__72581__Aomway_Mini_600TVL_FPV_Tuned_CMOS_Camera_with_Microphone_and_shielded_cable_NTSC_.html">Video camera</a> ($15 or use a pre-owned camera like a GoPro)
 * <a href="http://laserbgc.com/index.php?route=product/product&path=67&product_id=75">Video receiver module</a> ($44)
